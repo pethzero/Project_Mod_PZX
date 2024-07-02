@@ -1,0 +1,19 @@
+{
+	"int" : 
+	{
+		"selectedpack" : 0
+	},
+	"intList" : 
+	{
+		"selectedpose" : 
+		[]
+	},
+	"string" : 
+	{
+		"name" : ""
+	},
+	"stringList" : 
+	{
+	    "packnames" : [ ]
+	}
+}
