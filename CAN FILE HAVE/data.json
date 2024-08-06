@@ -1,0 +1,16 @@
+{
+    "have_data": [
+        "GS1",
+        "GS2",
+        "GS3",
+        "GS4",
+        "GS5",
+        "GS6"
+    ],
+    "not_have_data": [
+        "GS10",
+        "GS7",
+        "GS8",
+        "GS9"
+    ]
+}

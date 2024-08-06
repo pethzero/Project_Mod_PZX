@@ -1,0 +1,40 @@
+{
+	"int" : 
+	{
+		"selectedpack" : 0
+	},
+	"intList" : 
+	{
+		"selectedpose" : 
+		[
+			0,
+			0,
+			0
+		]
+	},
+	"string" : 
+	{
+		"name" : "GSPoser"
+	},
+	"stringList" : 
+	{
+        "gropa": [
+            "GS1|GS1",
+            "GS1|GS2"
+        ],
+        "gropb": [
+            "GS3|GS3",
+            "GS4|GS4"
+        ],
+        "gropc": [
+            "GS5|GS5",
+            "GS6|GS6"
+        ],
+        "packnames" : 
+		[
+			"gropa",
+			"gropb",
+			"gropc"
+		]
+    }
+}
