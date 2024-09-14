@@ -1,0 +1,5138 @@
+[
+    {
+        "name": "BBCWhoreBreast",
+        "section": "CapTats (Front Breast)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\BBCWhoreBreast.dds"
+    },
+    {
+        "name": "BackThigh_BlackOwned",
+        "section": "CapTats (Front Thigh)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\BackThigh_BlackOwned.dds"
+    },
+    {
+        "name": "BunnyHip",
+        "section": "CapTats (Front Hip)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\BunnyHip.dds"
+    },
+    {
+        "name": "QueenSpade2Belly",
+        "section": "CapTats (Front Belly)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\QueenSpade2Belly.dds"
+    },
+    {
+        "name": "SnowbunnyBacklow",
+        "section": "CapTats (Back Low)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\SnowbunnyBacklow.dds"
+    },
+    {
+        "name": "SnowBunnyBreast",
+        "section": "CapTats (Front Breast)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\SnowBunnyBreast.dds"
+    },
+    {
+        "name": "SnowBunnyFront",
+        "section": "CapTats (Front)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\SnowBunnyFront.dds"
+    },
+    {
+        "name": "Spade2Back",
+        "section": "CapTats (Back)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Spade2Back.dds"
+    },
+    {
+        "name": "ThighL_SpadeYvy",
+        "section": "CapTats (Front Thigh)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\ThighL_SpadeYvy.dds"
+    },
+    {
+        "name": "SpadeYvyFront",
+        "section": "CapTats (Front)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\SpadeYvyFront.dds"
+    },
+    {
+        "name": "ThighR_SpadeYvy",
+        "section": "CapTats (Front Thigh)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\ThighR_SpadeYvy.dds"
+    },
+    {
+        "name": "Back_BlackOwned",
+        "section": "CapTats (Back)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Back_BlackOwned.dds"
+    },
+    {
+        "name": "BackLow_QueenSpades3",
+        "section": "CapTats (Back Low)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\BackLow_QueenSpades3.dds"
+    },
+    {
+        "name": "BackNeck_BlackOwned",
+        "section": "CapTats (Back Neck)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\BackNeck_BlackOwned.dds"
+    },
+    {
+        "name": "Belly_BonerGarage",
+        "section": "CapTats (Front Belly)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Belly_BonerGarage.dds"
+    },
+    {
+        "name": "Belly_BonerGarage2",
+        "section": "CapTats (Front Belly)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Belly_BonerGarage2.dds"
+    },
+    {
+        "name": "Belly_SnowBunny2",
+        "section": "CapTats (Front)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Belly_SnowBunny2.dds"
+    },
+    {
+        "name": "ArmLeft_Ivy",
+        "section": "CapTats (Arm Right)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\ArmLeft_Ivy.dds"
+    },
+    {
+        "name": "ArmRight_Ivy",
+        "section": "CapTats (Arm Left)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\ArmRight_Ivy.dds"
+    },
+    {
+        "name": "ArmLeft_QOS",
+        "section": "CapTats (Arm Left)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\ArmLeft_QOS.dds"
+    },
+    {
+        "name": "ArmRight_QOS",
+        "section": "CapTats (Arm Right)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\ArmRight_QOS.dds"
+    },
+    {
+        "name": "ArmRight_Bull",
+        "section": "CapTats (Arm Right)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\ArmRight_Bull.dds"
+    },
+    {
+        "name": "Back_BBC",
+        "section": "CapTats (Back)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Back_BBC.dds"
+    },
+    {
+        "name": "Back_Bull",
+        "section": "CapTats (Back)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Back_Bull.dds"
+    },
+    {
+        "name": "Belly_BBC_BabyMaker",
+        "section": "CapTats (Front Belly)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Belly_BBC_BabyMaker.dds"
+    },
+    {
+        "name": "Belly_QOS1",
+        "section": "CapTats (Front Belly)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Belly_QOS1.dds"
+    },
+    {
+        "name": "Breast_QOS",
+        "section": "CapTats (Front Breast)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Breast_QOS.dds"
+    },
+    {
+        "name": "Butt_BBC",
+        "section": "CapTats (Back Butt)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Butt_BBC.dds"
+    },
+    {
+        "name": "FrontThigh_Bull",
+        "section": "CapTats (Front Thigh)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\FrontThigh_Bull.dds"
+    },
+    {
+        "name": "FrontUp_Snowbunny",
+        "section": "CapTats (Front)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\FrontUp_Snowbunny.dds"
+    },
+    {
+        "name": "Hip_BBC",
+        "section": "CapTats (Front Hip)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Hip_BBC.dds"
+    },
+    {
+        "name": "Front_QOS_Ivy",
+        "section": "CapTats (Front)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Front_QOS_Ivy.dds"
+    },
+    {
+        "name": "Belly_BBC_Tats",
+        "section": "CapTats (Front Belly)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Belly_BBC_Tats.dds"
+    },
+    {
+        "name": "BackLow_BBC",
+        "section": "CapTats (Back Low)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\BackLow_BBC.dds"
+    },
+    {
+        "name": "Butt_BBCOwned",
+        "section": "CapTats (Back Butt)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Butt_BBCOwned.dds"
+    },
+    {
+        "name": "Butt_BBCQueen",
+        "section": "CapTats (Back Butt)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Butt_BBCQueen.dds"
+    },
+    {
+        "name": "Back_bbc2",
+        "section": "CapTats (Back)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Back_bbc2.dds"
+    },
+    {
+        "name": "Back_BBCProperty",
+        "section": "CapTats (Back)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Back_BBCProperty.dds"
+    },
+    {
+        "name": "BackLow_SnowBunny",
+        "section": "CapTats (Back Low)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\BackLow_SnowBunny.dds"
+    },
+    {
+        "name": "Belly_BBC_Lock",
+        "section": "CapTats (Front Belly)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Belly_BBC_Lock.dds"
+    },
+    {
+        "name": "Belly_BBC_Necklace",
+        "section": "CapTats (Front Belly)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Belly_BBC_Necklage.dds"
+    },
+    {
+        "name": "Belly_BBC_Wings",
+        "section": "CapTats (Front Belly)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Belly_BBC_Wings.dds"
+    },
+    {
+        "name": "Breast_LoveBBC",
+        "section": "CapTats (Front Breast)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Breast_LoveBBC.dds"
+    },
+    {
+        "name": "Breast_QOS1",
+        "section": "CapTats (Front Breast)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Breast_QOS1.dds"
+    },
+    {
+        "name": "FrontThigh_BlackOwned",
+        "section": "CapTats (Front Thigh)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\FrontThigh_BlackOwned.dds"
+    },
+    {
+        "name": "FrontThigh_QOS",
+        "section": "CapTats (Front Thigh)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\FrontThigh_QOS.dds"
+    },
+    {
+        "name": "Hip_QOS2",
+        "section": "CapTats (Front Hip)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Hip_QOS2.dds"
+    },
+    {
+        "name": "InnerThigh_BBC",
+        "section": "CapTats (Thigh Inner)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\InnerThigh_BBC.dds"
+    },
+    {
+        "name": "Front_BBCQueen",
+        "section": "CapTats (Front)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Front_BBCQueen.dds"
+    },
+    {
+        "name": "Back_African",
+        "section": "CapTats (Back)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Back_African.dds"
+    },
+    {
+        "name": "Back_BBC_Wings",
+        "section": "CapTats (Back)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Back_BBC_Wings.dds"
+    },
+    {
+        "name": "Back_Snowbunny",
+        "section": "CapTats (Back)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Back_Snowbunny.dds"
+    },
+    {
+        "name": "BackThigh_BBCProperty",
+        "section": "CapTats (Back Thigh)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\BackThigh_BBCProperty.dds"
+    },
+    {
+        "name": "BackThigh_Certified",
+        "section": "CapTats (Back Thigh)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\BackThigh_Certified.dds"
+    },
+    {
+        "name": "Belly_Certified",
+        "section": "CapTats (Front Belly)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Belly_Certified.dds"
+    },
+    {
+        "name": "Butt_Certified",
+        "section": "CapTats (Back Butt)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Butt_Certified.dds"
+    },
+    {
+        "name": "FrontUp_Snowbunny2",
+        "section": "CapTats (Front)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\FrontUp_Snowbunny2.dds"
+    },
+    {
+        "name": "Neck_Snowbunny",
+        "section": "CapTats (Back Neck)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Neck_Snowbunny.dds"
+    },
+    {
+        "name": "Breast_R_QOS",
+        "section": "CapTats (Front Breast)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Breast_R_QOS.dds"
+    },
+    {
+        "name": "Ankle_BBCIvy",
+        "section": "CapTats (Ankle)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Ankle_BBCIvy.dds"
+    },
+    {
+        "name": "FrontThigh_SpadesStars",
+        "section": "CapTats (Front Thigh)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\FrontThigh_SpadesStars.dds"
+    },
+    {
+        "name": "FrontThigh_BBCOnly",
+        "section": "CapTats (Front Thigh)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\FrontThigh_BBCOnly.dds"
+    },
+    {
+        "name": "BBCWhoreCalf",
+        "section": "CapTats (Back Calf)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\BBCWhoreCalf.dds"
+    },
+    {
+        "name": "BBCHands",
+        "section": "CapTats ($Hands)",
+        "area": "hands",
+        "texture": "CaptiveTattoos\\JB\\BBCHands.dds"
+    },
+    {
+        "name": "Spades",
+        "section": "CapTats (Hip)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Spades.dds"
+    },
+    {
+        "name": "SpadesAss",
+        "section": "CapTats (Back Butt)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\SpadesAss.dds"
+    },
+    {
+        "name": "SpadesLowBack",
+        "section": "CapTats (Back Low)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\SpadesLowBack.dds"
+    },
+    {
+        "name": "SpadesAnkle",
+        "section": "CapTats (Ankle)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\SpadesAnkle.dds"
+    },
+    {
+        "name": "SpadeBreast",
+        "section": "CapTats (Front Breast)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\SpadeBreast.dds"
+    },
+    {
+        "name": "BlackOwnedThigh",
+        "section": "CapTats (Back Thigh)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\BlackOwnedThigh.dds"
+    },
+    {
+        "name": "BellyBBCChastity",
+        "section": "CapTats (Front Belly)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\BellyBBCChastity.dds"
+    },
+    {
+        "name": "HipBBCPink",
+        "section": "CapTats (Front Hip)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\HipBBCPink.dds"
+    },
+    {
+        "name": "ButtSlapRed",
+        "section": "CapTats (Butt)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\ButtSlapRed.dds"
+    },
+    {
+        "name": "ButtSlapRed2",
+        "section": "CapTats (Butt)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\ButtSlapRed2.dds"
+    },
+    {
+        "name": "IvySides",
+        "section": "CapTats (Front Sides)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\IvySides.dds"
+    },
+    {
+        "name": "BreastSpadeCircles",
+        "section": "CapTats (Front Breast)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\BreastSpadeCircles.dds"
+    },
+    {
+        "name": "BBC_13ThighBack",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\13ThighBack.dds"
+    },
+    {
+        "name": "BBC_2CuteBack",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\2CuteBack.dds"
+    },
+    {
+        "name": "BBC_2CuteFront",
+        "section": "BBC CapTats (Front)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\2CuteFront.dds"
+    },
+    {
+        "name": "BBC_3Holes_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\3Holes_d.dds"
+    },
+    {
+        "name": "BBC_9RearThigh_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\9RearThigh_d.dds"
+    },
+    {
+        "name": "BBC_AllowedThighFront",
+        "section": "BBC CapTats (Front)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\AllowedThighFront.dds"
+    },
+    {
+        "name": "BBC_AlreadyRuinedLowBack_d",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\AlreadyRuinedLowBack_d.dds"
+    },
+    {
+        "name": "BBC_AnalOnlyWhore",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\AnalOnlyWhore.dds"
+    },
+    {
+        "name": "BBC_AnimalFrontLeg",
+        "section": "BBC CapTats (Front)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\AnimalFrontLeg.dds"
+    },
+    {
+        "name": "BBC_AnimalLeg_d",
+        "section": "BBC CapTats (Leg) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\AnimalLeg_d.dds"
+    },
+    {
+        "name": "BBC_AnimalShoulder_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\AnimalShoulder_d.dds"
+    },
+    {
+        "name": "BBC_AnkleChain",
+        "section": "BBC CapTats (Ankle) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\AnkleChain.dds"
+    },
+    {
+        "name": "BBC_AnkleLButerflies",
+        "section": "BBC CapTats (Ankle) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\AnkleLButerflies.dds"
+    },
+    {
+        "name": "BBC_AnkleLStars",
+        "section": "BBC CapTats (Ankle) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\AnkleLStars.dds"
+    },
+    {
+        "name": "BBC_AnkleRButerflies",
+        "section": "BBC CapTats (Ankle) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\AnkleRButerflies.dds"
+    },
+    {
+        "name": "BBC_AnkleRSkull",
+        "section": "BBC CapTats (Ankle) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\AnkleRSkull.dds"
+    },
+    {
+        "name": "BBC_Ass_10",
+        "section": "BBC CapTats (Ass) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Ass_10.dds"
+    },
+    {
+        "name": "BBC_Ass_100",
+        "section": "BBC CapTats (Ass) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Ass_100.dds"
+    },
+    {
+        "name": "BBC_Ass_capsC",
+        "section": "BBC CapTats (Ass) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Ass_capsC.dds"
+    },
+    {
+        "name": "BBC_ass_capsL",
+        "section": "BBC CapTats (Ass) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\ass_capsL.dds"
+    },
+    {
+        "name": "BBC_Ass_capsL2",
+        "section": "BBC CapTats (Ass) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Ass_capsL2.dds"
+    },
+    {
+        "name": "BBC_AtLeastSpit_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\AtLeastSpit_d.dds"
+    },
+    {
+        "name": "BBC_BabyGirlFrontThigh",
+        "section": "BBC CapTats (Front)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\BabyGirlFrontThigh.dds"
+    },
+    {
+        "name": "BBC_BabyMaker",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\BabyMaker.dds"
+    },
+    {
+        "name": "BBC_Back tongue",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Back tongue.dds"
+    },
+    {
+        "name": "BBC_Back",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Back.dds"
+    },
+    {
+        "name": "BBC_BackBruises",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\BackBruises.dds"
+    },
+    {
+        "name": "BBC_BackChains",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\BackChains.dds"
+    },
+    {
+        "name": "BBC_BackCollar_d",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\BackCollar_d.dds"
+    },
+    {
+        "name": "BBC_BackHalfTime",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\BackHalfTime.dds"
+    },
+    {
+        "name": "BBC_BackLabour",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\BackLabour.dds"
+    },
+    {
+        "name": "BBC_BackLowBull",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\BackLowBull.dds"
+    },
+    {
+        "name": "BBC_BackLowSailor",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\BackLowSailor.dds"
+    },
+    {
+        "name": "BBC_BackLow_BlackOnly",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\BackLow_BlackOnly.dds"
+    },
+    {
+        "name": "BBC_BackNeckSucker",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\BackNeckSucker.dds"
+    },
+    {
+        "name": "BBC_BackPurpleHeart",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\BackPurpleHeart.dds"
+    },
+    {
+        "name": "BBC_BackRedFlower",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\BackRedFlower.dds"
+    },
+    {
+        "name": "BBC_BackRedHeart",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\BackRedHeart.dds"
+    },
+    {
+        "name": "BBC_BackSissyHeart",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\BackSissyHeart.dds"
+    },
+    {
+        "name": "BBC_BackSpit",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\BackSpit.dds"
+    },
+    {
+        "name": "BBC_BackThighDouble",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\BackThighDouble.dds"
+    },
+    {
+        "name": "BBC_BackThighLaces",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\BackThighLaces.dds"
+    },
+    {
+        "name": "BBC_BackThighPurpleRibbon",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\BackThighPurpleRibbon.dds"
+    },
+    {
+        "name": "BBC_BackThighRedRibbon",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\BackThighRedRibbon.dds"
+    },
+    {
+        "name": "BBC_BackWhore",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\BackWhore.dds"
+    },
+    {
+        "name": "BBC_back_breeder",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\back_breeder.dds"
+    },
+    {
+        "name": "BBC_Back_JuicyGirl",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Back_JuicyGirl.dds"
+    },
+    {
+        "name": "BBC_BadGirlBelly",
+        "section": "BBC Belly",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\BadGirlBelly.dds"
+    },
+    {
+        "name": "BBC_BadGirlButt",
+        "section": "BBC CapTats (Butt) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\BadGirlButt.dds"
+    },
+    {
+        "name": "BBC_BadKitty_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\BadKitty_d.dds"
+    },
+    {
+        "name": "BBC_Barely2_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Barely2_d.dds"
+    },
+    {
+        "name": "BBC_Barely_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Barely_d.dds"
+    },
+    {
+        "name": "BBC_BeenBad_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\BeenBad_d.dds"
+    },
+    {
+        "name": "BBC_BellyDarkPinkTattoo",
+        "section": "BBC Belly",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\BellyDarkPinkTattoo.dds"
+    },
+    {
+        "name": "BBC_BellyDarkPurpleTattoo",
+        "section": "BBC Belly",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\BellyDarkPurpleTattoo.dds"
+    },
+    {
+        "name": "BBC_BellyFixed",
+        "section": "BBC Belly",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\BellyFixed.dds"
+    },
+    {
+        "name": "BBC_BellyLilacTattoo",
+        "section": "BBC Belly",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\BellyLilacTattoo.dds"
+    },
+    {
+        "name": "BBC_BellyLocked",
+        "section": "BBC Belly",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\BellyLocked.dds"
+    },
+    {
+        "name": "BBC_BellyNora",
+        "section": "BBC Belly",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\BellyNora.dds"
+    },
+    {
+        "name": "BBC_BellyNukaCap",
+        "section": "BBC Belly",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\BellyNukaCap.dds"
+    },
+    {
+        "name": "BBC_BellyNukaCaps",
+        "section": "BBC Belly",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\BellyNukaCaps.dds"
+    },
+    {
+        "name": "BBC_BellyNukaCola",
+        "section": "BBC Belly",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\BellyNukaCola.dds"
+    },
+    {
+        "name": "BBC_BellyPinkButterfly",
+        "section": "BBC Belly",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\BellyPinkButterfly.dds"
+    },
+    {
+        "name": "BBC_BellyPinkFuckToy",
+        "section": "BBC Belly",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\BellyPinkFuckToy.dds"
+    },
+    {
+        "name": "BBC_BellyPinkTattoo",
+        "section": "BBC Belly",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\BellyPinkTattoo.dds"
+    },
+    {
+        "name": "BBC_BellyPinkWomb3",
+        "section": "BBC Belly",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\BellyPinkWomb3.dds"
+    },
+    {
+        "name": "BBC_BellyPinkWomb4",
+        "section": "BBC Belly",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\BellyPinkWomb4.dds"
+    },
+    {
+        "name": "BBC_BellyRaiderHorns",
+        "section": "BBC Belly",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\BellyRaiderHorns.dds"
+    },
+    {
+        "name": "BBC_BellyRedTattoo",
+        "section": "BBC Belly",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\BellyRedTattoo.dds"
+    },
+    {
+        "name": "BBC_BellySissy",
+        "section": "BBC Belly",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\BellySissy.dds"
+    },
+    {
+        "name": "BBC_BellySissyBoy",
+        "section": "BBC Belly",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\BellySissyBoy.dds"
+    },
+    {
+        "name": "BBC_BellySkullFire",
+        "section": "BBC Belly",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\BellySkullFire.dds"
+    },
+    {
+        "name": "BBC_BellyStars",
+        "section": "BBC Belly",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\BellyStars.dds"
+    },
+    {
+        "name": "BBC_belly_breeder",
+        "section": "BBC Belly",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\belly_breeder.dds"
+    },
+    {
+        "name": "BBC_belly_Heart",
+        "section": "BBC Belly",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\belly_Heart.dds"
+    },
+    {
+        "name": "BBC_belly_paw",
+        "section": "BBC Belly",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\belly_paw.dds"
+    },
+    {
+        "name": "BBC_BePatient_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\BePatient_d.dds"
+    },
+    {
+        "name": "BBC_BetterThanDomesticLife_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\BetterThanDomesticLife_d.dds"
+    },
+    {
+        "name": "BBC_BewareBitch_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\BewareBitch_d.dds"
+    },
+    {
+        "name": "BBC_BigSkullBack_d",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\BigSkullBack_d.dds"
+    },
+    {
+        "name": "BBC_Bitch_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Bitch_d.dds"
+    },
+    {
+        "name": "BBC_BiteMe_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\BiteMe_d.dds"
+    },
+    {
+        "name": "BBC_BoilerBack",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\BoilerBack.dds"
+    },
+    {
+        "name": "BBC_BoilerButt",
+        "section": "BBC CapTats (Butt) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\BoilerButt.dds"
+    },
+    {
+        "name": "BBC_BoilerUnderArmLeft",
+        "section": "BBC CapTats (Arm) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\BoilerUnderArmLeft.dds"
+    },
+    {
+        "name": "BBC_BoilSlowBackThigh",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\BoilSlowBackThigh.dds"
+    },
+    {
+        "name": "BBC_BoilSlowRearThigh",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\BoilSlowRearThigh.dds"
+    },
+    {
+        "name": "BBC_BoyfriendFront",
+        "section": "BBC CapTats (Front)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\BoyfriendFront.dds"
+    },
+    {
+        "name": "BBC_Brainless_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Brainless_d.dds"
+    },
+    {
+        "name": "BBC_Brat2_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Brat2_d.dds"
+    },
+    {
+        "name": "BBC_Brat5_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Brat5_d.dds"
+    },
+    {
+        "name": "BBC_BratNeck",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\BratNeck.dds"
+    },
+    {
+        "name": "BBC_Brat_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Brat_d.dds"
+    },
+    {
+        "name": "BBC_BreastBite",
+        "section": "BBC CapTats (Breast) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\BreastBite.dds"
+    },
+    {
+        "name": "BBC_BreastBite_n",
+        "section": "BBC CapTats (Breast) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\BreastBite_n.dds"
+    },
+    {
+        "name": "BBC_BreastBite_s",
+        "section": "BBC CapTats (Breast) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\BreastBite_s.dds"
+    },
+    {
+        "name": "BBC_BreastFlowers",
+        "section": "BBC CapTats (Breast) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\BreastFlowers.dds"
+    },
+    {
+        "name": "BBC_Breast_Tally1",
+        "section": "BBC CapTats (Breast) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Breast_Tally1.dds"
+    },
+    {
+        "name": "BBC_Breast_Tally2",
+        "section": "BBC CapTats (Breast) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Breast_Tally2.dds"
+    },
+    {
+        "name": "BBC_Breast_Tally3",
+        "section": "BBC CapTats (Breast) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Breast_Tally3.dds"
+    },
+    {
+        "name": "BBC_BreedBelly",
+        "section": "BBC Belly",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\BreedBelly.dds"
+    },
+    {
+        "name": "BBC_Breeder_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Breeder_d.dds"
+    },
+    {
+        "name": "BBC_BreedingPet2_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\BreedingPet2_d.dds"
+    },
+    {
+        "name": "BBC_BreedingPet_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\BreedingPet_d.dds"
+    },
+    {
+        "name": "BBC_BrokenUA_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\BrokenUA_d.dds"
+    },
+    {
+        "name": "BBC_BruiseRArm",
+        "section": "BBC CapTats (Arm) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\BruiseRArm.dds"
+    },
+    {
+        "name": "BBC_BruisesHeavy",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\BruisesHeavy.dds"
+    },
+    {
+        "name": "BBC_BruisesLight",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\BruisesLight.dds"
+    },
+    {
+        "name": "BBC_BruisesMedium",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\BruisesMedium.dds"
+    },
+    {
+        "name": "BBC_ButtBadGirl2",
+        "section": "BBC CapTats (Butt) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\ButtBadGirl2.dds"
+    },
+    {
+        "name": "BBC_ButtBite",
+        "section": "BBC CapTats (Butt) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\ButtBite.dds"
+    },
+    {
+        "name": "BBC_ButtBite_n",
+        "section": "BBC CapTats (Butt) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\ButtBite_n.dds"
+    },
+    {
+        "name": "BBC_ButtBite_s",
+        "section": "BBC CapTats (Butt) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\ButtBite_s.dds"
+    },
+    {
+        "name": "BBC_ButtGoodDogs",
+        "section": "BBC CapTats (Butt) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\ButtGoodDogs.dds"
+    },
+    {
+        "name": "BBC_ButtGoodPets",
+        "section": "BBC CapTats (Butt) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\ButtGoodPets.dds"
+    },
+    {
+        "name": "BBC_ButtLoveHard",
+        "section": "BBC CapTats (Butt) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\ButtLoveHard.dds"
+    },
+    {
+        "name": "BBC_ButtPenis",
+        "section": "BBC CapTats (Butt) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\ButtPenis.dds"
+    },
+    {
+        "name": "BBC_ButtSpit",
+        "section": "BBC CapTats (Butt) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\ButtSpit.dds"
+    },
+    {
+        "name": "BBC_butt_pawprint",
+        "section": "BBC CapTats (Butt) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\butt_pawprint.dds"
+    },
+    {
+        "name": "BBC_Butt_Siren",
+        "section": "BBC CapTats (Butt) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Butt_Siren.dds"
+    },
+    {
+        "name": "BBC_CallmeBitchFront",
+        "section": "BBC CapTats (Front)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\CallmeBitchFront.dds"
+    },
+    {
+        "name": "BBC_CallMeBitchHip",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\CallMeBitchHip.dds"
+    },
+    {
+        "name": "BBC_CanYou_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\CanYou_d.dds"
+    },
+    {
+        "name": "BBC_CapsMakeMeCumBelly_d",
+        "section": "BBC Belly",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\CapsMakeMeCumBelly_d.dds"
+    },
+    {
+        "name": "BBC_ChokeHer_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\ChokeHer_d.dds"
+    },
+    {
+        "name": "BBC_chokeme_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\chokeme_d.dds"
+    },
+    {
+        "name": "BBC_CockAddictedBelly_d",
+        "section": "BBC Belly",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\CockAddictedBelly_d.dds"
+    },
+    {
+        "name": "BBC_CockAddictedInnerThigh",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\CockAddictedInnerThigh.dds"
+    },
+    {
+        "name": "BBC_CockCandyBelly",
+        "section": "BBC Belly",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\CockCandyBelly.dds"
+    },
+    {
+        "name": "BBC_CockCandyLowBack",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\CockCandyLowBack.dds"
+    },
+    {
+        "name": "BBC_CockSuckerRightArm",
+        "section": "BBC CapTats (Arm) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\CockSuckerRightArm.dds"
+    },
+    {
+        "name": "BBC_CollaredAndHappyFront_d",
+        "section": "BBC CapTats (Front)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\CollaredAndHappyFront_d.dds"
+    },
+    {
+        "name": "BBC_CollarNeck",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\CollarNeck.dds"
+    },
+    {
+        "name": "BBC_CowTits_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\CowTits_d.dds"
+    },
+    {
+        "name": "BBC_Cuffs_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Cuffs_d.dds"
+    },
+    {
+        "name": "BBC_CumDumpster_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\CumDumpster_d.dds"
+    },
+    {
+        "name": "BBC_CumpetBelly",
+        "section": "BBC Belly",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\CumpetBelly.dds"
+    },
+    {
+        "name": "BBC_CumpetFront",
+        "section": "BBC CapTats (Front)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\CumpetFront.dds"
+    },
+    {
+        "name": "BBC_CumpetGreenFront",
+        "section": "BBC CapTats (Front)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\CumpetGreenFront.dds"
+    },
+    {
+        "name": "BBC_CumpetNeck",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\CumpetNeck.dds"
+    },
+    {
+        "name": "BBC_Cunnilingus",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Cunnilingus.dds"
+    },
+    {
+        "name": "BBC_CunnilingusBelly",
+        "section": "BBC Belly",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\CunnilingusBelly.dds"
+    },
+    {
+        "name": "BBC_Cunt_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Cunt_d.dds"
+    },
+    {
+        "name": "BBC_CuteAss",
+        "section": "BBC CapTats (Ass) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\CuteAss.dds"
+    },
+    {
+        "name": "BBC_CuteBelly",
+        "section": "BBC Belly",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\CuteBelly.dds"
+    },
+    {
+        "name": "BBC_CuteFront",
+        "section": "BBC CapTats (Front)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\CuteFront.dds"
+    },
+    {
+        "name": "BBC_CuteFrontThigh",
+        "section": "BBC CapTats (Front)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\CuteFrontThigh.dds"
+    },
+    {
+        "name": "BBC_CuteRearThigh",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\CuteRearThigh.dds"
+    },
+    {
+        "name": "BBC_DaddyIssues2_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\DaddyIssues2_d.dds"
+    },
+    {
+        "name": "BBC_DaddysLittlePetBelly",
+        "section": "BBC Belly",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\DaddysLittlePetBelly.dds"
+    },
+    {
+        "name": "BBC_DaddySlut_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\DaddySlut_d.dds"
+    },
+    {
+        "name": "BBC_DaddysNew_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\DaddysNew_d.dds"
+    },
+    {
+        "name": "BBC_Dairy_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Dairy_d.dds"
+    },
+    {
+        "name": "BBC_DemonSlaveBack",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\DemonSlaveBack.dds"
+    },
+    {
+        "name": "BBC_DemonSlaveLeftHip",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\DemonSlaveLeftHip.dds"
+    },
+    {
+        "name": "BBC_Deposit_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Deposit_d.dds"
+    },
+    {
+        "name": "BBC_Deserved_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Deserved_d.dds"
+    },
+    {
+        "name": "BBC_DestroyMyThroatFront",
+        "section": "BBC CapTats (Front)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\DestroyMyThroatFront.dds"
+    },
+    {
+        "name": "BBC_Discount_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Discount_d.dds"
+    },
+    {
+        "name": "BBC_Dissobedient_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Dissobedient_d.dds"
+    },
+    {
+        "name": "BBC_Dogs_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Dogs_d.dds"
+    },
+    {
+        "name": "BBC_DoingRight_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\DoingRight_d.dds"
+    },
+    {
+        "name": "BBC_Domesticated_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Domesticated_d.dds"
+    },
+    {
+        "name": "BBC_DontCare_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\DontCare_d.dds"
+    },
+    {
+        "name": "BBC_DosisBack",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\DosisBack.dds"
+    },
+    {
+        "name": "BBC_DoWhatSirWants_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\DoWhatSirWants_d.dds"
+    },
+    {
+        "name": "BBC_DrunkGirl_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\DrunkGirl_d.dds"
+    },
+    {
+        "name": "BBC_DumbSlutCalf",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\DumbSlutCalf.dds"
+    },
+    {
+        "name": "BBC_DumbSlutFrontLeg",
+        "section": "BBC CapTats (Front)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\DumbSlutFrontLeg.dds"
+    },
+    {
+        "name": "BBC_EmptyFront",
+        "section": "BBC CapTats (Front)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\EmptyFront.dds"
+    },
+    {
+        "name": "BBC_EnjoyBelly",
+        "section": "BBC Belly",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\EnjoyBelly.dds"
+    },
+    {
+        "name": "BBC_EnjoyLowBack",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\EnjoyLowBack.dds"
+    },
+    {
+        "name": "BBC_EnjoyRide",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\EnjoyRide.dds"
+    },
+    {
+        "name": "BBC_EverySingleDrop_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\EverySingleDrop_d.dds"
+    },
+    {
+        "name": "BBC_FavoritePet_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\FavoritePet_d.dds"
+    },
+    {
+        "name": "BBC_FavourBelly",
+        "section": "BBC Belly",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\FavourBelly.dds"
+    },
+    {
+        "name": "BBC_FeedMe_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\FeedMe_d.dds"
+    },
+    {
+        "name": "BBC_FeelingNaughty_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\FeelingNaughty_d.dds"
+    },
+    {
+        "name": "BBC_FemaleOrgasmThighFront",
+        "section": "BBC CapTats (Front)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\FemaleOrgasmThighFront.dds"
+    },
+    {
+        "name": "BBC_FillMyAss",
+        "section": "BBC CapTats (Ass) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\FillMyAss.dds"
+    },
+    {
+        "name": "BBC_FilthyBack",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\FilthyBack.dds"
+    },
+    {
+        "name": "BBC_FilthyCalf",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\FilthyCalf.dds"
+    },
+    {
+        "name": "BBC_FilthyLeftArm",
+        "section": "BBC CapTats (Arm) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\FilthyLeftArm.dds"
+    },
+    {
+        "name": "BBC_FingerAss",
+        "section": "BBC CapTats (Ass) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\FingerAss.dds"
+    },
+    {
+        "name": "BBC_FingerBack",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\FingerBack.dds"
+    },
+    {
+        "name": "BBC_ForRaidersUseOnly_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\ForRaidersUseOnly_d.dds"
+    },
+    {
+        "name": "BBC_ForRentAss",
+        "section": "BBC CapTats (Ass) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\ForRentAss.dds"
+    },
+    {
+        "name": "BBC_ForRentBelly",
+        "section": "BBC Belly",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\ForRentBelly.dds"
+    },
+    {
+        "name": "BBC_ForRentFront",
+        "section": "BBC CapTats (Front)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\ForRentFront.dds"
+    },
+    {
+        "name": "BBC_ForRenTFrontThigh",
+        "section": "BBC CapTats (Front)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\ForRenTFrontThigh.dds"
+    },
+    {
+        "name": "BBC_ForRentLowBack",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\ForRentLowBack.dds"
+    },
+    {
+        "name": "BBC_FreakOnALeash_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\FreakOnALeash_d.dds"
+    },
+    {
+        "name": "BBC_Fresh_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Fresh_d.dds"
+    },
+    {
+        "name": "BBC_Front",
+        "section": "BBC CapTats (Front)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Front.dds"
+    },
+    {
+        "name": "BBC_FrontChains",
+        "section": "BBC CapTats (Front)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\FrontChains.dds"
+    },
+    {
+        "name": "BBC_FrontColorsStars",
+        "section": "BBC CapTats (Front)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\FrontColorsStars.dds"
+    },
+    {
+        "name": "BBC_FrontCumEater",
+        "section": "BBC CapTats (Front)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\FrontCumEater.dds"
+    },
+    {
+        "name": "BBC_FrontDolphine",
+        "section": "BBC CapTats (Front)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\FrontDolphine.dds"
+    },
+    {
+        "name": "BBC_FrontLittleSucker",
+        "section": "BBC CapTats (Front)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\FrontLittleSucker.dds"
+    },
+    {
+        "name": "BBC_FrontPinkFire",
+        "section": "BBC CapTats (Front)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\FrontPinkFire.dds"
+    },
+    {
+        "name": "BBC_FrontPinkHeart",
+        "section": "BBC CapTats (Front)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\FrontPinkHeart.dds"
+    },
+    {
+        "name": "BBC_FrontPinkHearts",
+        "section": "BBC CapTats (Front)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\FrontPinkHearts.dds"
+    },
+    {
+        "name": "BBC_FrontPinkStars",
+        "section": "BBC CapTats (Front)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\FrontPinkStars.dds"
+    },
+    {
+        "name": "BBC_FrontPrincess",
+        "section": "BBC CapTats (Front)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\FrontPrincess.dds"
+    },
+    {
+        "name": "BBC_FrontThighSpit",
+        "section": "BBC CapTats (Front)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\FrontThighSpit.dds"
+    },
+    {
+        "name": "BBC_FrontThigh_SpadeStars",
+        "section": "BBC CapTats (Front)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\FrontThigh_SpadeStars.dds"
+    },
+    {
+        "name": "BBC_FuckLove2_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\FuckLove2_d.dds"
+    },
+    {
+        "name": "BBC_FuckLove3_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\FuckLove3_d.dds"
+    },
+    {
+        "name": "BBC_FuckLove_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\FuckLove_d.dds"
+    },
+    {
+        "name": "BBC_FuckMinutemanFront",
+        "section": "BBC CapTats (Front)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\FuckMinutemanFront.dds"
+    },
+    {
+        "name": "BBC_FuckMinutemanIIIFront",
+        "section": "BBC CapTats (Front)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\FuckMinutemanIIIFront.dds"
+    },
+    {
+        "name": "BBC_FuckPigUA_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\FuckPigUA_d.dds"
+    },
+    {
+        "name": "BBC_FuckPig_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\FuckPig_d.dds"
+    },
+    {
+        "name": "BBC_FuckToy2_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\FuckToy2_d.dds"
+    },
+    {
+        "name": "BBC_FuckToyBelly_d",
+        "section": "BBC Belly",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\FuckToyBelly_d.dds"
+    },
+    {
+        "name": "BBC_FuckToyUA_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\FuckToyUA_d.dds"
+    },
+    {
+        "name": "BBC_FuckYouBelly",
+        "section": "BBC Belly",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\FuckYouBelly.dds"
+    },
+    {
+        "name": "BBC_FuckYouButt",
+        "section": "BBC CapTats (Butt) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\FuckYouButt.dds"
+    },
+    {
+        "name": "BBC_Full",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Full.dds"
+    },
+    {
+        "name": "BBC_FullBody",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\FullBody.dds"
+    },
+    {
+        "name": "BBC_FullLeftArm",
+        "section": "BBC CapTats (Arm) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\FullLeftArm.dds"
+    },
+    {
+        "name": "BBC_FullLeftLeg",
+        "section": "BBC CapTats (Leg) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\FullLeftLeg.dds"
+    },
+    {
+        "name": "BBC_FullRightArm",
+        "section": "BBC CapTats (Arm) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\FullRightArm.dds"
+    },
+    {
+        "name": "BBC_FullRightLeg",
+        "section": "BBC CapTats (Leg) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\FullRightLeg.dds"
+    },
+    {
+        "name": "BBC_Gag_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Gag_d.dds"
+    },
+    {
+        "name": "BBC_GameOverLeftArm",
+        "section": "BBC CapTats (Arm) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\GameOverLeftArm.dds"
+    },
+    {
+        "name": "BBC_GeneralSlutInnerThigh_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\GeneralSlutInnerThigh_d.dds"
+    },
+    {
+        "name": "BBC_GeneralSlut_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\GeneralSlut_d.dds"
+    },
+    {
+        "name": "BBC_GetYourDoseVTBelly",
+        "section": "BBC Belly",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\GetYourDoseVTBelly.dds"
+    },
+    {
+        "name": "BBC_GiveMePsychoBack",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\GiveMePsychoBack.dds"
+    },
+    {
+        "name": "BBC_GiveMePsychoBelly",
+        "section": "BBC Belly",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\GiveMePsychoBelly.dds"
+    },
+    {
+        "name": "BBC_Glitter texture black",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Glitter texture black.dds"
+    },
+    {
+        "name": "BBC_Glitter texture pink",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Glitter texture pink.dds"
+    },
+    {
+        "name": "BBC_Glitter texture red",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Glitter texture red.dds"
+    },
+    {
+        "name": "BBC_GNEducationBack_d",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\GNEducationBack_d.dds"
+    },
+    {
+        "name": "BBC_GNIfFound_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\GNIfFound_d.dds"
+    },
+    {
+        "name": "BBC_GNIndoctrinationBack_d",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\GNIndoctrinationBack_d.dds"
+    },
+    {
+        "name": "BBC_GNMoraleArm_d",
+        "section": "BBC CapTats (Arm) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\GNMoraleArm_d.dds"
+    },
+    {
+        "name": "BBC_GNMoraleBackThigh_d",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\GNMoraleBackThigh_d.dds"
+    },
+    {
+        "name": "BBC_GNMoraleBack_d",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\GNMoraleBack_d.dds"
+    },
+    {
+        "name": "BBC_GNMoraleBelly_d",
+        "section": "BBC Belly",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\GNMoraleBelly_d.dds"
+    },
+    {
+        "name": "BBC_GNPropertyBack_d",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\GNPropertyBack_d.dds"
+    },
+    {
+        "name": "BBC_GNPropertyBelly_d",
+        "section": "BBC Belly",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\GNPropertyBelly_d.dds"
+    },
+    {
+        "name": "BBC_GNReportBack_d",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\GNReportBack_d.dds"
+    },
+    {
+        "name": "BBC_GNSeniorFront_d",
+        "section": "BBC CapTats (Front)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\GNSeniorFront_d.dds"
+    },
+    {
+        "name": "BBC_GNSkullBack_d",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\GNSkullBack_d.dds"
+    },
+    {
+        "name": "BBC_GNSkullBelly_d",
+        "section": "BBC Belly",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\GNSkullBelly_d.dds"
+    },
+    {
+        "name": "BBC_Gold Glitter",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Gold Glitter.dds"
+    },
+    {
+        "name": "BBC_GoodGirlsBelly",
+        "section": "BBC Belly",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\GoodGirlsBelly.dds"
+    },
+    {
+        "name": "BBC_GoodLuckHip",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\GoodLuckHip.dds"
+    },
+    {
+        "name": "BBC_GPropertyFront",
+        "section": "BBC CapTats (Front)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\GPropertyFront.dds"
+    },
+    {
+        "name": "BBC_GrabMe",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\GrabMe.dds"
+    },
+    {
+        "name": "BBC_GuardsThighFront",
+        "section": "BBC CapTats (Front)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\GuardsThighFront.dds"
+    },
+    {
+        "name": "BBC_GunsNeck",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\GunsNeck.dds"
+    },
+    {
+        "name": "BBC_HahaSlut_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\HahaSlut_d.dds"
+    },
+    {
+        "name": "BBC_Haha_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Haha_d.dds"
+    },
+    {
+        "name": "BBC_HandBreast_d",
+        "section": "BBC CapTats (Breast) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\HandBreast_d.dds"
+    },
+    {
+        "name": "BBC_HandBruises",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\HandBruises.dds"
+    },
+    {
+        "name": "BBC_HandMultiNails",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\HandMultiNails.dds"
+    },
+    {
+        "name": "BBC_HandNails",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\HandNails.dds"
+    },
+    {
+        "name": "BBC_HandsButt_d",
+        "section": "BBC CapTats (Hands)",
+        "area": "Hands",
+        "texture": "CaptiveTattoos\\JB\\HandsButt_d.dds"
+    },
+    {
+        "name": "BBC_HandsChains",
+        "section": "BBC CapTats (Hands)",
+        "area": "Hands",
+        "texture": "CaptiveTattoos\\JB\\HandsChains.dds"
+    },
+    {
+        "name": "BBC_HandsChains2",
+        "section": "BBC CapTats (Hands)",
+        "area": "Hands",
+        "texture": "CaptiveTattoos\\JB\\HandsChains2.dds"
+    },
+    {
+        "name": "BBC_HandsFull",
+        "section": "BBC CapTats (Hands)",
+        "area": "Hands",
+        "texture": "CaptiveTattoos\\JB\\HandsFull.dds"
+    },
+    {
+        "name": "BBC_HandsHeart",
+        "section": "BBC CapTats (Hands)",
+        "area": "Hands",
+        "texture": "CaptiveTattoos\\JB\\HandsHeart.dds"
+    },
+    {
+        "name": "BBC_HandsLaces",
+        "section": "BBC CapTats (Hands)",
+        "area": "Hands",
+        "texture": "CaptiveTattoos\\JB\\HandsLaces.dds"
+    },
+    {
+        "name": "BBC_HandsNukaRide",
+        "section": "BBC CapTats (Hands)",
+        "area": "Hands",
+        "texture": "CaptiveTattoos\\JB\\HandsNukaRide.dds"
+    },
+    {
+        "name": "BBC_HappiestVTBack",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\HappiestVTBack.dds"
+    },
+    {
+        "name": "BBC_HappiestVTBelly",
+        "section": "BBC Belly",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\HappiestVTBelly.dds"
+    },
+    {
+        "name": "BBC_HateMinutemen_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\HateMinutemen_d.dds"
+    },
+    {
+        "name": "BBC_HeartBreaker",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\HeartBreaker.dds"
+    },
+    {
+        "name": "BBC_HeartBreastGreen",
+        "section": "BBC CapTats (Breast) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\HeartBreastGreen.dds"
+    },
+    {
+        "name": "BBC_HeartFront",
+        "section": "BBC CapTats (Front)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\HeartFront.dds"
+    },
+    {
+        "name": "BBC_HeartsNeck",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\HeartsNeck.dds"
+    },
+    {
+        "name": "BBC_Heart_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Heart_d.dds"
+    },
+    {
+        "name": "BBC_HellBelly",
+        "section": "BBC Belly",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\HellBelly.dds"
+    },
+    {
+        "name": "BBC_HellBreast",
+        "section": "BBC CapTats (Breast) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\HellBreast.dds"
+    },
+    {
+        "name": "BBC_HereForSuckFront",
+        "section": "BBC CapTats (Front)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\HereForSuckFront.dds"
+    },
+    {
+        "name": "BBC_HipFutaSlave",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\HipFutaSlave.dds"
+    },
+    {
+        "name": "BBC_HipKnife",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\HipKnife.dds"
+    },
+    {
+        "name": "BBC_HipNukaGirl",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\HipNukaGirl.dds"
+    },
+    {
+        "name": "BBC_HipPurpleFuta",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\HipPurpleFuta.dds"
+    },
+    {
+        "name": "BBC_HipStars2",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\HipStars2.dds"
+    },
+    {
+        "name": "BBC_HitMe_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\HitMe_d.dds"
+    },
+    {
+        "name": "BBC_HotBitchFront",
+        "section": "BBC CapTats (Front)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\HotBitchFront.dds"
+    },
+    {
+        "name": "BBC_HotBitchHip",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\HotBitchHip.dds"
+    },
+    {
+        "name": "BBC_HotWifeBelly",
+        "section": "BBC Belly",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\HotWifeBelly.dds"
+    },
+    {
+        "name": "BBC_HotWifeButt",
+        "section": "BBC CapTats (Butt) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\HotWifeButt.dds"
+    },
+    {
+        "name": "BBC_HoundPetBelly",
+        "section": "BBC Belly",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\HoundPetBelly.dds"
+    },
+    {
+        "name": "BBC_HoundPetButt",
+        "section": "BBC CapTats (Butt) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\HoundPetButt.dds"
+    },
+    {
+        "name": "BBC_HoundsPetLowBack",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\HoundsPetLowBack.dds"
+    },
+    {
+        "name": "BBC_HumanMilk",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\HumanMilk.dds"
+    },
+    {
+        "name": "BBC_HumanMilkFront",
+        "section": "BBC CapTats (Front)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\HumanMilkFront.dds"
+    },
+    {
+        "name": "BBC_ICanTakeIt_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\ICanTakeIt_d.dds"
+    },
+    {
+        "name": "BBC_IDeserveABeating_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\IDeserveABeating_d.dds"
+    },
+    {
+        "name": "BBC_IfLost_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\IfLost_d.dds"
+    },
+    {
+        "name": "BBC_IfMissBehave_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\IfMissBehave_d.dds"
+    },
+    {
+        "name": "BBC_IKneelForCaps_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\IKneelForCaps_d.dds"
+    },
+    {
+        "name": "BBC_InnerThighBite",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\InnerThighBite.dds"
+    },
+    {
+        "name": "BBC_InnerThighBite_n",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\InnerThighBite_n.dds"
+    },
+    {
+        "name": "BBC_InnerThighBite_s",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\InnerThighBite_s.dds"
+    },
+    {
+        "name": "BBC_InnerThigh_Tally1",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\InnerThigh_Tally1.dds"
+    },
+    {
+        "name": "BBC_InnerThigh_Tally2",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\InnerThigh_Tally2.dds"
+    },
+    {
+        "name": "BBC_InnerThigh_Tally3",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\InnerThigh_Tally3.dds"
+    },
+    {
+        "name": "BBC_IntensiveTraining_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\IntensiveTraining_d.dds"
+    },
+    {
+        "name": "BBC_InTraining_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\InTraining_d.dds"
+    },
+    {
+        "name": "BBC_JailWhoreThighBack",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\JailWhoreThighBack.dds"
+    },
+    {
+        "name": "BBC_Jared_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Jared_d.dds"
+    },
+    {
+        "name": "BBC_Junkie2_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Junkie2_d.dds"
+    },
+    {
+        "name": "BBC_Junkie3_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Junkie3_d.dds"
+    },
+    {
+        "name": "BBC_Junkie4_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Junkie4_d.dds"
+    },
+    {
+        "name": "BBC_JunkieArm_d",
+        "section": "BBC CapTats (Arm) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\JunkieArm_d.dds"
+    },
+    {
+        "name": "BBC_JunkieHands",
+        "section": "BBC CapTats (Hands)",
+        "area": "Hands",
+        "texture": "CaptiveTattoos\\JB\\JunkieHands.dds"
+    },
+    {
+        "name": "BBC_Junkie_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Junkie_d.dds"
+    },
+    {
+        "name": "BBC_KeepInRestraints_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\KeepInRestraints_d.dds"
+    },
+    {
+        "name": "BBC_KickHere_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\KickHere_d.dds"
+    },
+    {
+        "name": "BBC_KissBreast",
+        "section": "BBC CapTats (Breast) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\KissBreast.dds"
+    },
+    {
+        "name": "BBC_Kitty_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Kitty_d.dds"
+    },
+    {
+        "name": "BBC_KneesSteel",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\KneesSteel.dds"
+    },
+    {
+        "name": "BBC_Knifes_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Knifes_d.dds"
+    },
+    {
+        "name": "BBC_LeadBack",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\LeadBack.dds"
+    },
+    {
+        "name": "BBC_LeadCalf",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\LeadCalf.dds"
+    },
+    {
+        "name": "BBC_LeakFront",
+        "section": "BBC CapTats (Front)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\LeakFront.dds"
+    },
+    {
+        "name": "BBC_Legschains_d",
+        "section": "BBC CapTats (Leg) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Legschains_d.dds"
+    },
+    {
+        "name": "BBC_LessTalkFront",
+        "section": "BBC CapTats (Front)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\LessTalkFront.dds"
+    },
+    {
+        "name": "BBC_LewdBelly",
+        "section": "BBC Belly",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\LewdBelly.dds"
+    },
+    {
+        "name": "BBC_Lick Me_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Lick Me_d.dds"
+    },
+    {
+        "name": "BBC_LipsBack_d",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\LipsBack_d.dds"
+    },
+    {
+        "name": "BBC_LipsBelly",
+        "section": "BBC Belly",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\LipsBelly.dds"
+    },
+    {
+        "name": "BBC_LipsFull",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\LipsFull.dds"
+    },
+    {
+        "name": "BBC_LipsKiss_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\LipsKiss_d.dds"
+    },
+    {
+        "name": "BBC_LittleBreederBack",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\LittleBreederBack.dds"
+    },
+    {
+        "name": "BBC_LittleBreederFront",
+        "section": "BBC CapTats (Front)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\LittleBreederFront.dds"
+    },
+    {
+        "name": "BBC_LockNeck",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\LockNeck.dds"
+    },
+    {
+        "name": "BBC_LootAndSlave_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\LootAndSlave_d.dds"
+    },
+    {
+        "name": "BBC_LoveHandcuffs_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\LoveHandcuffs_d.dds"
+    },
+    {
+        "name": "BBC_LovePain_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\LovePain_d.dds"
+    },
+    {
+        "name": "BBC_LowBackHotAss",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\LowBackHotAss.dds"
+    },
+    {
+        "name": "BBC_LowBackTrampStamp",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\LowBackTrampStamp.dds"
+    },
+    {
+        "name": "BBC_LowBackTrampStamp2",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\LowBackTrampStamp2.dds"
+    },
+    {
+        "name": "BBC_LowBackTrampStamp4",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\LowBackTrampStamp4.dds"
+    },
+    {
+        "name": "BBC_LowBackTrampStamp6",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\LowBackTrampStamp6.dds"
+    },
+    {
+        "name": "BBC_lower_back_pawprint",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\lower_back_pawprint.dds"
+    },
+    {
+        "name": "BBC_LustBelly",
+        "section": "BBC Belly",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\LustBelly.dds"
+    },
+    {
+        "name": "BBC_LustInnerThigh",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\LustInnerThigh.dds"
+    },
+    {
+        "name": "BBC_LustLowBack",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\LustLowBack.dds"
+    },
+    {
+        "name": "BBC_MadeToWearCollar_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\MadeToWearCollar_d.dds"
+    },
+    {
+        "name": "BBC_MaleBruiseBack",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\MaleBruiseBack.dds"
+    },
+    {
+        "name": "BBC_MaleBruiseBelly",
+        "section": "BBC Belly",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\MaleBruiseBelly.dds"
+    },
+    {
+        "name": "BBC_MaleBruiseFront",
+        "section": "BBC CapTats (Front)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\MaleBruiseFront.dds"
+    },
+    {
+        "name": "BBC_MaleBruiseFront2",
+        "section": "BBC CapTats (Front)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\MaleBruiseFront2.dds"
+    },
+    {
+        "name": "BBC_MaleBruiseFull",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\MaleBruiseFull.dds"
+    },
+    {
+        "name": "BBC_MaleBruiseThigh",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\MaleBruiseThigh.dds"
+    },
+    {
+        "name": "BBC_MaleSpankedAss",
+        "section": "BBC CapTats (Ass) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\MaleSpankedAss.dds"
+    },
+    {
+        "name": "BBC_MaleWhipAss",
+        "section": "BBC CapTats (Ass) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\MaleWhipAss.dds"
+    },
+    {
+        "name": "BBC_MaleWhipFull",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\MaleWhipFull.dds"
+    },
+    {
+        "name": "BBC_MaleWhippedBack",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\MaleWhippedBack.dds"
+    },
+    {
+        "name": "BBC_MAnyRaiderBack",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\MAnyRaiderBack.dds"
+    },
+    {
+        "name": "BBC_mark_Back_Property",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\mark_Back_Property.dds"
+    },
+    {
+        "name": "BBC_mark_Back_Property_n",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\mark_Back_Property_n.dds"
+    },
+    {
+        "name": "BBC_mark_Back_Property_s",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\mark_Back_Property_s.dds"
+    },
+    {
+        "name": "BBC_mark_Back_Skull",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\mark_Back_Skull.dds"
+    },
+    {
+        "name": "BBC_mark_Back_skullfire",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\mark_Back_skullfire.dds"
+    },
+    {
+        "name": "BBC_mark_Back_skullfire_n",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\mark_Back_skullfire_n.dds"
+    },
+    {
+        "name": "BBC_mark_Back_skullfire_s",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\mark_Back_skullfire_s.dds"
+    },
+    {
+        "name": "BBC_mark_Back_Skull_n",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\mark_Back_Skull_n.dds"
+    },
+    {
+        "name": "BBC_mark_Back_Skull_s",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\mark_Back_Skull_s.dds"
+    },
+    {
+        "name": "BBC_mark_Belly_Cattle",
+        "section": "BBC Belly",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\mark_Belly_Cattle.dds"
+    },
+    {
+        "name": "BBC_mark_Belly_Cattle_n",
+        "section": "BBC Belly",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\mark_Belly_Cattle_n.dds"
+    },
+    {
+        "name": "BBC_mark_Belly_Cattle_s",
+        "section": "BBC Belly",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\mark_Belly_Cattle_s.dds"
+    },
+    {
+        "name": "BBC_mark_Belly_Skull",
+        "section": "BBC Belly",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\mark_Belly_Skull.dds"
+    },
+    {
+        "name": "BBC_mark_Belly_skullfire",
+        "section": "BBC Belly",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\mark_Belly_skullfire.dds"
+    },
+    {
+        "name": "BBC_mark_Belly_skullfire_n",
+        "section": "BBC Belly",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\mark_Belly_skullfire_n.dds"
+    },
+    {
+        "name": "BBC_mark_Belly_skullfire_s",
+        "section": "BBC Belly",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\mark_Belly_skullfire_s.dds"
+    },
+    {
+        "name": "BBC_mark_Belly_Skull_n",
+        "section": "BBC Belly",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\mark_Belly_Skull_n.dds"
+    },
+    {
+        "name": "BBC_mark_Belly_Skull_s",
+        "section": "BBC Belly",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\mark_Belly_Skull_s.dds"
+    },
+    {
+        "name": "BBC_mark_breast_skull",
+        "section": "BBC CapTats (Breast) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\mark_breast_skull.dds"
+    },
+    {
+        "name": "BBC_mark_breast_skull_n",
+        "section": "BBC CapTats (Breast) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\mark_breast_skull_n.dds"
+    },
+    {
+        "name": "BBC_mark_breast_skull_s",
+        "section": "BBC CapTats (Breast) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\mark_breast_skull_s.dds"
+    },
+    {
+        "name": "BBC_mark_breast_slave",
+        "section": "BBC CapTats (Breast) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\mark_breast_slave.dds"
+    },
+    {
+        "name": "BBC_mark_breast_slave_n",
+        "section": "BBC CapTats (Breast) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\mark_breast_slave_n.dds"
+    },
+    {
+        "name": "BBC_mark_breast_slave_s",
+        "section": "BBC CapTats (Breast) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\mark_breast_slave_s.dds"
+    },
+    {
+        "name": "BBC_mark_butt_breeder",
+        "section": "BBC CapTats (Butt) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\mark_butt_breeder.dds"
+    },
+    {
+        "name": "BBC_mark_butt_breeder_n",
+        "section": "BBC CapTats (Butt) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\mark_butt_breeder_n.dds"
+    },
+    {
+        "name": "BBC_mark_butt_breeder_s",
+        "section": "BBC CapTats (Butt) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\mark_butt_breeder_s.dds"
+    },
+    {
+        "name": "BBC_mark_Butt_cattle",
+        "section": "BBC CapTats (Butt) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\mark_Butt_cattle.dds"
+    },
+    {
+        "name": "BBC_mark_Butt_cattle_n",
+        "section": "BBC CapTats (Butt) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\mark_Butt_cattle_n.dds"
+    },
+    {
+        "name": "BBC_mark_Butt_cattle_s",
+        "section": "BBC CapTats (Butt) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\mark_Butt_cattle_s.dds"
+    },
+    {
+        "name": "BBC_mark_Butt_Labour_s",
+        "section": "BBC CapTats (Butt) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\mark_Butt_Labour_s.dds"
+    },
+    {
+        "name": "BBC_mark_butt_skull",
+        "section": "BBC CapTats (Butt) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\mark_butt_skull.dds"
+    },
+    {
+        "name": "BBC_mark_butt_skullfire",
+        "section": "BBC CapTats (Butt) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\mark_butt_skullfire.dds"
+    },
+    {
+        "name": "BBC_mark_butt_skullfire_n",
+        "section": "BBC CapTats (Butt) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\mark_butt_skullfire_n.dds"
+    },
+    {
+        "name": "BBC_mark_butt_skullfire_s",
+        "section": "BBC CapTats (Butt) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\mark_butt_skullfire_s.dds"
+    },
+    {
+        "name": "BBC_mark_butt_skull_n",
+        "section": "BBC CapTats (Butt) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\mark_butt_skull_n.dds"
+    },
+    {
+        "name": "BBC_mark_butt_skull_s",
+        "section": "BBC CapTats (Butt) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\mark_butt_skull_s.dds"
+    },
+    {
+        "name": "BBC_mark_Front_2479",
+        "section": "BBC CapTats (Front)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\mark_Front_2479.dds"
+    },
+    {
+        "name": "BBC_mark_Front_2479_n",
+        "section": "BBC CapTats (Front)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\mark_Front_2479_n.dds"
+    },
+    {
+        "name": "BBC_mark_Front_2479_s",
+        "section": "BBC CapTats (Front)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\mark_Front_2479_s.dds"
+    },
+    {
+        "name": "BBC_mark_Front_cattle",
+        "section": "BBC CapTats (Front)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\mark_Front_cattle.dds"
+    },
+    {
+        "name": "BBC_mark_Front_cattle_n",
+        "section": "BBC CapTats (Front)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\mark_Front_cattle_n.dds"
+    },
+    {
+        "name": "BBC_mark_Front_cattle_s",
+        "section": "BBC CapTats (Front)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\mark_Front_cattle_s.dds"
+    },
+    {
+        "name": "BBC_mark_Front_HorseShoe",
+        "section": "BBC CapTats (Front)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\mark_Front_HorseShoe.dds"
+    },
+    {
+        "name": "BBC_mark_Front_HorseShoe_n",
+        "section": "BBC CapTats (Front)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\mark_Front_HorseShoe_n.dds"
+    },
+    {
+        "name": "BBC_mark_Front_HorseShoe_s",
+        "section": "BBC CapTats (Front)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\mark_Front_HorseShoe_s.dds"
+    },
+    {
+        "name": "BBC_mark_Hip_Property",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\mark_Hip_Property.dds"
+    },
+    {
+        "name": "BBC_mark_Hip_Property_n",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\mark_Hip_Property_n.dds"
+    },
+    {
+        "name": "BBC_mark_Hip_Property_s",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\mark_Hip_Property_s.dds"
+    },
+    {
+        "name": "BBC_mark_LArm_cattle",
+        "section": "BBC CapTats (Arm) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\mark_LArm_cattle.dds"
+    },
+    {
+        "name": "BBC_mark_LArm_cattle_n",
+        "section": "BBC CapTats (Arm) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\mark_LArm_cattle_n.dds"
+    },
+    {
+        "name": "BBC_mark_LArm_cattle_s",
+        "section": "BBC CapTats (Arm) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\mark_LArm_cattle_s.dds"
+    },
+    {
+        "name": "BBC_mark_LArm_skullfire",
+        "section": "BBC CapTats (Arm) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\mark_LArm_skullfire.dds"
+    },
+    {
+        "name": "BBC_mark_LArm_skullfire_n",
+        "section": "BBC CapTats (Arm) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\mark_LArm_skullfire_n.dds"
+    },
+    {
+        "name": "BBC_mark_LArm_skullfire_s",
+        "section": "BBC CapTats (Arm) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\mark_LArm_skullfire_s.dds"
+    },
+    {
+        "name": "BBC_mark_Lowback_Condom",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\mark_Lowback_Condom.dds"
+    },
+    {
+        "name": "BBC_mark_Lowback_Condom_n",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\mark_Lowback_Condom_n.dds"
+    },
+    {
+        "name": "BBC_mark_LowBack_FuckToy",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\mark_LowBack_FuckToy.dds"
+    },
+    {
+        "name": "BBC_mark_LowBack_FuckToy_n",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\mark_LowBack_FuckToy_n.dds"
+    },
+    {
+        "name": "BBC_mark_LowBack_FuckToy_s",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\mark_LowBack_FuckToy_s.dds"
+    },
+    {
+        "name": "BBC_MArmRaiderLogo2_d",
+        "section": "BBC CapTats (Arm) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\MArmRaiderLogo2_d.dds"
+    },
+    {
+        "name": "BBC_MArmRaiderLogo_d",
+        "section": "BBC CapTats (Arm) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\MArmRaiderLogo_d.dds"
+    },
+    {
+        "name": "BBC_MastersCuntBelly",
+        "section": "BBC Belly",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\MastersCuntBelly.dds"
+    },
+    {
+        "name": "BBC_Max_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Max_d.dds"
+    },
+    {
+        "name": "BBC_MBackBeating_d",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\MBackBeating_d.dds"
+    },
+    {
+        "name": "BBC_MBackBone_d",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\MBackBone_d.dds"
+    },
+    {
+        "name": "BBC_MBackInTraining_d",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\MBackInTraining_d.dds"
+    },
+    {
+        "name": "BBC_MBackLips_d",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\MBackLips_d.dds"
+    },
+    {
+        "name": "BBC_MBackMastersProperty_d",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\MBackMastersProperty_d.dds"
+    },
+    {
+        "name": "BBC_MBackMistressProperty_d",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\MBackMistressProperty_d.dds"
+    },
+    {
+        "name": "BBC_MBackRaiderLogo2_d",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\MBackRaiderLogo2_d.dds"
+    },
+    {
+        "name": "BBC_MBackRaiderLogo3_d",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\MBackRaiderLogo3_d.dds"
+    },
+    {
+        "name": "BBC_MBackRaiderLogo4_d",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\MBackRaiderLogo4_d.dds"
+    },
+    {
+        "name": "BBC_MBackRaiderLogo_d",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\MBackRaiderLogo_d.dds"
+    },
+    {
+        "name": "BBC_MBackSlapMe_d",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\MBackSlapMe_d.dds"
+    },
+    {
+        "name": "BBC_MBackThightOwned_d",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\MBackThightOwned_d.dds"
+    },
+    {
+        "name": "BBC_MBackTrained_d",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\MBackTrained_d.dds"
+    },
+    {
+        "name": "BBC_MBellyPuppy_d",
+        "section": "BBC Belly",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\MBellyPuppy_d.dds"
+    },
+    {
+        "name": "BBC_MBullets",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\MBullets.dds"
+    },
+    {
+        "name": "BBC_MButtBadBoy_d",
+        "section": "BBC CapTats (Butt) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\MButtBadBoy_d.dds"
+    },
+    {
+        "name": "BBC_MButtBeenBad_d",
+        "section": "BBC CapTats (Butt) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\MButtBeenBad_d.dds"
+    },
+    {
+        "name": "BBC_MButtFuckToy_d",
+        "section": "BBC CapTats (Butt) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\MButtFuckToy_d.dds"
+    },
+    {
+        "name": "BBC_MButtHandCuffs_d",
+        "section": "BBC CapTats (Butt) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\MButtHandCuffs_d.dds"
+    },
+    {
+        "name": "BBC_MButtLocked_d",
+        "section": "BBC CapTats (Butt) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\MButtLocked_d.dds"
+    },
+    {
+        "name": "BBC_MButtMouth_d",
+        "section": "BBC CapTats (Butt) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\MButtMouth_d.dds"
+    },
+    {
+        "name": "BBC_MButtPunishMe_d",
+        "section": "BBC CapTats (Butt) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\MButtPunishMe_d.dds"
+    },
+    {
+        "name": "BBC_MButtSold_d",
+        "section": "BBC CapTats (Butt) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\MButtSold_d.dds"
+    },
+    {
+        "name": "BBC_MChokeMe_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\MChokeMe_d.dds"
+    },
+    {
+        "name": "BBC_MeBack",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\MeBack.dds"
+    },
+    {
+        "name": "BBC_MessyGirl",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\MessyGirl.dds"
+    },
+    {
+        "name": "BBC_MessyGirlBackThigh",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\MessyGirlBackThigh.dds"
+    },
+    {
+        "name": "BBC_MessyGirlFront",
+        "section": "BBC CapTats (Front)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\MessyGirlFront.dds"
+    },
+    {
+        "name": "BBC_MFuckToy_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\MFuckToy_d.dds"
+    },
+    {
+        "name": "BBC_MGrabMe_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\MGrabMe_d.dds"
+    },
+    {
+        "name": "BBC_MGunnerSkull_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\MGunnerSkull_d.dds"
+    },
+    {
+        "name": "BBC_MHandCuffs_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\MHandCuffs_d.dds"
+    },
+    {
+        "name": "BBC_MHereForSuckBackNeck",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\MHereForSuckBackNeck.dds"
+    },
+    {
+        "name": "BBC_MHereForSuckFront",
+        "section": "BBC CapTats (Front)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\MHereForSuckFront.dds"
+    },
+    {
+        "name": "BBC_MHipFuckToy_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\MHipFuckToy_d.dds"
+    },
+    {
+        "name": "BBC_MHipWhore_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\MHipWhore_d.dds"
+    },
+    {
+        "name": "BBC_MIfFoundLowBack",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\MIfFoundLowBack.dds"
+    },
+    {
+        "name": "BBC_MistressGonnaKillBelly",
+        "section": "BBC Belly",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\MistressGonnaKillBelly.dds"
+    },
+    {
+        "name": "BBC_MistressPet",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\MistressPet.dds"
+    },
+    {
+        "name": "BBC_MistressPetBelly",
+        "section": "BBC Belly",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\MistressPetBelly.dds"
+    },
+    {
+        "name": "BBC_MistressPetLowBack",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\MistressPetLowBack.dds"
+    },
+    {
+        "name": "BBC_MistressPropertyLowBack",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\MistressPropertyLowBack.dds"
+    },
+    {
+        "name": "BBC_MistressProperty_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\MistressProperty_d.dds"
+    },
+    {
+        "name": "BBC_Mistress_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Mistress_d.dds"
+    },
+    {
+        "name": "BBC_MLock1_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\MLock1_d.dds"
+    },
+    {
+        "name": "BBC_MLock3_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\MLock3_d.dds"
+    },
+    {
+        "name": "BBC_MLocked2_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\MLocked2_d.dds"
+    },
+    {
+        "name": "BBC_MLocked_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\MLocked_d.dds"
+    },
+    {
+        "name": "BBC_MMisstressProperty_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\MMisstressProperty_d.dds"
+    },
+    {
+        "name": "BBC_MMoandayBack",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\MMoandayBack.dds"
+    },
+    {
+        "name": "BBC_MMoraleBelly",
+        "section": "BBC Belly",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\MMoraleBelly.dds"
+    },
+    {
+        "name": "BBC_MMyMasterGonnaKill_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\MMyMasterGonnaKill_d.dds"
+    },
+    {
+        "name": "BBC_MoandayBack",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\MoandayBack.dds"
+    },
+    {
+        "name": "BBC_MoraleLowBack",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\MoraleLowBack.dds"
+    },
+    {
+        "name": "BBC_Mouth_10",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Mouth_10.dds"
+    },
+    {
+        "name": "BBC_Mouth_100",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Mouth_100.dds"
+    },
+    {
+        "name": "BBC_mouth_always_open",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\mouth_always_open.dds"
+    },
+    {
+        "name": "BBC_Mouth_caps2",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Mouth_caps2.dds"
+    },
+    {
+        "name": "BBC_Mouth_capsL",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Mouth_capsL.dds"
+    },
+    {
+        "name": "BBC_mouth_capsL2",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\mouth_capsL2.dds"
+    },
+    {
+        "name": "BBC_MPet2_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\MPet2_d.dds"
+    },
+    {
+        "name": "BBC_MPet3_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\MPet3_d.dds"
+    },
+    {
+        "name": "BBC_MPet_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\MPet_d.dds"
+    },
+    {
+        "name": "BBC_MPsychoAddict_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\MPsychoAddict_d.dds"
+    },
+    {
+        "name": "BBC_MPullMeFront",
+        "section": "BBC CapTats (Front)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\MPullMeFront.dds"
+    },
+    {
+        "name": "BBC_MRaiderHeart_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\MRaiderHeart_d.dds"
+    },
+    {
+        "name": "BBC_MRaiderSkull1_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\MRaiderSkull1_d.dds"
+    },
+    {
+        "name": "BBC_MRaiderSkull2_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\MRaiderSkull2_d.dds"
+    },
+    {
+        "name": "BBC_MSlaveRightArm",
+        "section": "BBC CapTats (Arm) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\MSlaveRightArm.dds"
+    },
+    {
+        "name": "BBC_MSlave_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\MSlave_d.dds"
+    },
+    {
+        "name": "BBC_MSold_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\MSold_d.dds"
+    },
+    {
+        "name": "BBC_MStopThinkingBack",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\MStopThinkingBack.dds"
+    },
+    {
+        "name": "BBC_MSub_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\MSub_d.dds"
+    },
+    {
+        "name": "BBC_Multi Colours v1",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Multi Colours v1.dds"
+    },
+    {
+        "name": "BBC_MutieFront",
+        "section": "BBC CapTats (Front)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\MutieFront.dds"
+    },
+    {
+        "name": "BBC_MutieFrontThigh",
+        "section": "BBC CapTats (Front)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\MutieFrontThigh.dds"
+    },
+    {
+        "name": "BBC_MutieWhoreBelly",
+        "section": "BBC Belly",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\MutieWhoreBelly.dds"
+    },
+    {
+        "name": "BBC_MuttieButt",
+        "section": "BBC CapTats (Butt) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\MuttieButt.dds"
+    },
+    {
+        "name": "BBC_MWasHereButt",
+        "section": "BBC CapTats (Butt) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\MWasHereButt.dds"
+    },
+    {
+        "name": "BBC_MyMasterGonnaKill2_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\MyMasterGonnaKill2_d.dds"
+    },
+    {
+        "name": "BBC_MyMasterGonnaKill_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\MyMasterGonnaKill_d.dds"
+    },
+    {
+        "name": "BBC_MyMasterLovesMeFront",
+        "section": "BBC CapTats (Front)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\MyMasterLovesMeFront.dds"
+    },
+    {
+        "name": "BBC_MyPurpose_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\MyPurpose_d.dds"
+    },
+    {
+        "name": "BBC_MySonCanWaitFrontThigh_d",
+        "section": "BBC CapTats (Front)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\MySonCanWaitFrontThigh_d.dds"
+    },
+    {
+        "name": "BBC_MyTongueLonges_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\MyTongueLonges_d.dds"
+    },
+    {
+        "name": "BBC_NewFuckToy_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\NewFuckToy_d.dds"
+    },
+    {
+        "name": "BBC_NewRaiderIncoming_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\NewRaiderIncoming_d.dds"
+    },
+    {
+        "name": "BBC_NoOne_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\NoOne_d.dds"
+    },
+    {
+        "name": "BBC_NothingVenturedBack",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\NothingVenturedBack.dds"
+    },
+    {
+        "name": "BBC_NothingVenturedVTBack",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\NothingVenturedVTBack.dds"
+    },
+    {
+        "name": "BBC_NothingVenturedVTBelly",
+        "section": "BBC Belly",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\NothingVenturedVTBelly.dds"
+    },
+    {
+        "name": "BBC_NotHumanButt_d",
+        "section": "BBC CapTats (Butt) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\NotHumanButt_d.dds"
+    },
+    {
+        "name": "BBC_NotHuman_D",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\NotHuman_D.dds"
+    },
+    {
+        "name": "BBC_NotShaun_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\NotShaun_d.dds"
+    },
+    {
+        "name": "BBC_NukaRide",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\NukaRide.dds"
+    },
+    {
+        "name": "BBC_NukaWorldPrincessThighBack",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\NukaWorldPrincessThighBack.dds"
+    },
+    {
+        "name": "BBC_NymphBelly",
+        "section": "BBC Belly",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\NymphBelly.dds"
+    },
+    {
+        "name": "BBC_NympNeck_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\NympNeck_d.dds"
+    },
+    {
+        "name": "BBC_ObjectBackThigh",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\ObjectBackThigh.dds"
+    },
+    {
+        "name": "BBC_Object_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Object_d.dds"
+    },
+    {
+        "name": "BBC_OldHagBackLow",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\OldHagBackLow.dds"
+    },
+    {
+        "name": "BBC_OldHagBackNeck",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\OldHagBackNeck.dds"
+    },
+    {
+        "name": "BBC_OwnedUA_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\OwnedUA_d.dds"
+    },
+    {
+        "name": "BBC_Owned_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Owned_d.dds"
+    },
+    {
+        "name": "BBC_PainSlutBack_d",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\PainSlutBack_d.dds"
+    },
+    {
+        "name": "BBC_PainUA_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\PainUA_d.dds"
+    },
+    {
+        "name": "BBC_PawBack",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\PawBack.dds"
+    },
+    {
+        "name": "BBC_PawBelly",
+        "section": "BBC Belly",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\PawBelly.dds"
+    },
+    {
+        "name": "BBC_PawButt",
+        "section": "BBC CapTats (Butt) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\PawButt.dds"
+    },
+    {
+        "name": "BBC_PawButt2",
+        "section": "BBC CapTats (Butt) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\PawButt2.dds"
+    },
+    {
+        "name": "BBC_PawFront",
+        "section": "BBC CapTats (Front)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\PawFront.dds"
+    },
+    {
+        "name": "BBC_PawHip",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\PawHip.dds"
+    },
+    {
+        "name": "BBC_PawLowBack",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\PawLowBack.dds"
+    },
+    {
+        "name": "BBC_Penis2_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Penis2_d.dds"
+    },
+    {
+        "name": "BBC_PenisFront",
+        "section": "BBC CapTats (Front)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\PenisFront.dds"
+    },
+    {
+        "name": "BBC_Pet Arm",
+        "section": "BBC CapTats (Arm) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Pet Arm.dds"
+    },
+    {
+        "name": "BBC_Pet2_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Pet2_d.dds"
+    },
+    {
+        "name": "BBC_PetFront",
+        "section": "BBC CapTats (Front)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\PetFront.dds"
+    },
+    {
+        "name": "BBC_PetHeart_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\PetHeart_d.dds"
+    },
+    {
+        "name": "BBC_PetMeFront",
+        "section": "BBC CapTats (Front)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\PetMeFront.dds"
+    },
+    {
+        "name": "BBC_PetMeRearLeg",
+        "section": "BBC CapTats (Leg) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\PetMeRearLeg.dds"
+    },
+    {
+        "name": "BBC_PetNeck",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\PetNeck.dds"
+    },
+    {
+        "name": "BBC_PetUA_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\PetUA_d.dds"
+    },
+    {
+        "name": "BBC_PillHips",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\PillHips.dds"
+    },
+    {
+        "name": "BBC_PillsFront",
+        "section": "BBC CapTats (Front)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\PillsFront.dds"
+    },
+    {
+        "name": "BBC_PillsHips",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\PillsHips.dds"
+    },
+    {
+        "name": "BBC_PillsHips2",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\PillsHips2.dds"
+    },
+    {
+        "name": "BBC_Pink Chek v1",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Pink Chek v1.dds"
+    },
+    {
+        "name": "BBC_PissSlaveFront",
+        "section": "BBC CapTats (Front)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\PissSlaveFront.dds"
+    },
+    {
+        "name": "BBC_PlayHardLowBack",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\PlayHardLowBack.dds"
+    },
+    {
+        "name": "BBC_PregnantSkull_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\PregnantSkull_d.dds"
+    },
+    {
+        "name": "BBC_PrettyWild_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\PrettyWild_d.dds"
+    },
+    {
+        "name": "BBC_Prime_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Prime_d.dds"
+    },
+    {
+        "name": "BBC_Princess_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Princess_d.dds"
+    },
+    {
+        "name": "BBC_PropertyOfDaddy2_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\PropertyOfDaddy2_d.dds"
+    },
+    {
+        "name": "BBC_PropertyOfDaddy_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\PropertyOfDaddy_d.dds"
+    },
+    {
+        "name": "BBC_PropertyOfRaiders2_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\PropertyOfRaiders2_d.dds"
+    },
+    {
+        "name": "BBC_ProudMinutemen_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\ProudMinutemen_d.dds"
+    },
+    {
+        "name": "BBC_PsychoAddict_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\PsychoAddict_d.dds"
+    },
+    {
+        "name": "BBC_PublicToiletFront",
+        "section": "BBC CapTats (Front)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\PublicToiletFront.dds"
+    },
+    {
+        "name": "BBC_PullMeFront",
+        "section": "BBC CapTats (Front)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\PullMeFront.dds"
+    },
+    {
+        "name": "BBC_PunishMe2_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\PunishMe2_d.dds"
+    },
+    {
+        "name": "BBC_PunishmentFucking_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\PunishmentFucking_d.dds"
+    },
+    {
+        "name": "BBC_PuppyLeg",
+        "section": "BBC CapTats (Leg) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\PuppyLeg.dds"
+    },
+    {
+        "name": "BBC_PuppyNeck",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\PuppyNeck.dds"
+    },
+    {
+        "name": "BBC_PurposeBackLow",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\PurposeBackLow.dds"
+    },
+    {
+        "name": "BBC_PurposeBelly",
+        "section": "BBC Belly",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\PurposeBelly.dds"
+    },
+    {
+        "name": "BBC_Pussy_10",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Pussy_10.dds"
+    },
+    {
+        "name": "BBC_Pussy_100",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Pussy_100.dds"
+    },
+    {
+        "name": "BBC_Pussy_caps2",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Pussy_caps2.dds"
+    },
+    {
+        "name": "BBC_Pussy_capsC",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Pussy_capsC.dds"
+    },
+    {
+        "name": "BBC_pussy_capsL",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\pussy_capsL.dds"
+    },
+    {
+        "name": "BBC_RaiderDogAnkle",
+        "section": "BBC CapTats (Ankle) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\RaiderDogAnkle.dds"
+    },
+    {
+        "name": "BBC_RaiderDogShoulder",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\RaiderDogShoulder.dds"
+    },
+    {
+        "name": "BBC_RaiderGirlBack_d",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\RaiderGirlBack_d.dds"
+    },
+    {
+        "name": "BBC_RaiderInside_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\RaiderInside_d.dds"
+    },
+    {
+        "name": "BBC_RaiderQueen2_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\RaiderQueen2_d.dds"
+    },
+    {
+        "name": "BBC_RaiderQueen3_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\RaiderQueen3_d.dds"
+    },
+    {
+        "name": "BBC_RaiderQueenBelly_d",
+        "section": "BBC Belly",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\RaiderQueenBelly_d.dds"
+    },
+    {
+        "name": "BBC_RaiderQueenHip_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\RaiderQueenHip_d.dds"
+    },
+    {
+        "name": "BBC_RaiderQueenLeftArm_d",
+        "section": "BBC CapTats (Arm) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\RaiderQueenLeftArm_d.dds"
+    },
+    {
+        "name": "BBC_RaiderQueenLowBack_d",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\RaiderQueenLowBack_d.dds"
+    },
+    {
+        "name": "BBC_RaiderQueenRighArm_d",
+        "section": "BBC CapTats (Arm) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\RaiderQueenRighArm_d.dds"
+    },
+    {
+        "name": "BBC_RaiderQueen_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\RaiderQueen_d.dds"
+    },
+    {
+        "name": "BBC_RaidersFavoriteCalf",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\RaidersFavoriteCalf.dds"
+    },
+    {
+        "name": "BBC_RaiderSkullUA_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\RaiderSkullUA_d.dds"
+    },
+    {
+        "name": "BBC_RaiderSkull_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\RaiderSkull_d.dds"
+    },
+    {
+        "name": "BBC_RaidersPropertyUA_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\RaidersPropertyUA_d.dds"
+    },
+    {
+        "name": "BBC_RaidersProperty_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\RaidersProperty_d.dds"
+    },
+    {
+        "name": "BBC_RaiderSymbolsHands",
+        "section": "BBC CapTats (Hands)",
+        "area": "Hands",
+        "texture": "CaptiveTattoos\\JB\\RaiderSymbolsHands.dds"
+    },
+    {
+        "name": "BBC_RapeMeatFront",
+        "section": "BBC CapTats (Front)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\RapeMeatFront.dds"
+    },
+    {
+        "name": "BBC_RapeMeatNeck_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\RapeMeatNeck_d.dds"
+    },
+    {
+        "name": "BBC_RapeMeatThigh",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\RapeMeatThigh.dds"
+    },
+    {
+        "name": "BBC_ReadyFront",
+        "section": "BBC CapTats (Front)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\ReadyFront.dds"
+    },
+    {
+        "name": "BBC_Ready_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Ready_d.dds"
+    },
+    {
+        "name": "BBC_RedHeartThigh",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\RedHeartThigh.dds"
+    },
+    {
+        "name": "BBC_RedProperty_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\RedProperty_d.dds"
+    },
+    {
+        "name": "BBC_RightArmMorale",
+        "section": "BBC CapTats (Arm) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\RightArmMorale.dds"
+    },
+    {
+        "name": "BBC_Rimjobs_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Rimjobs_d.dds"
+    },
+    {
+        "name": "BBC_RuinedLowBack_d",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\RuinedLowBack_d.dds"
+    },
+    {
+        "name": "BBC_SadSlave",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\SadSlave.dds"
+    },
+    {
+        "name": "BBC_SadSlaveBack",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\SadSlaveBack.dds"
+    },
+    {
+        "name": "BBC_SeekingFront_d",
+        "section": "BBC CapTats (Front)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\SeekingFront_d.dds"
+    },
+    {
+        "name": "BBC_SemenDemon_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\SemenDemon_d.dds"
+    },
+    {
+        "name": "BBC_SexPigNeck",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\SexPigNeck.dds"
+    },
+    {
+        "name": "BBC_SexPig_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\SexPig_d.dds"
+    },
+    {
+        "name": "BBC_SexSlaveNeck",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\SexSlaveNeck.dds"
+    },
+    {
+        "name": "BBC_Sexy_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Sexy_d.dds"
+    },
+    {
+        "name": "BBC_ShowMeTheRopesBack",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\ShowMeTheRopesBack.dds"
+    },
+    {
+        "name": "BBC_SideSkulls_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\SideSkulls_d.dds"
+    },
+    {
+        "name": "BBC_SideSullLeft_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\SideSullLeft_d.dds"
+    },
+    {
+        "name": "BBC_Silver Glitter",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Silver Glitter.dds"
+    },
+    {
+        "name": "BBC_SissyFront",
+        "section": "BBC CapTats (Front)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\SissyFront.dds"
+    },
+    {
+        "name": "BBC_SkipTheBullshit_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\SkipTheBullshit_d.dds"
+    },
+    {
+        "name": "BBC_Skull2Neck",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Skull2Neck.dds"
+    },
+    {
+        "name": "BBC_Skull2_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Skull2_d.dds"
+    },
+    {
+        "name": "BBC_SkullArm",
+        "section": "BBC CapTats (Arm) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\SkullArm.dds"
+    },
+    {
+        "name": "BBC_SkullBackNeck",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\SkullBackNeck.dds"
+    },
+    {
+        "name": "BBC_SkullBackRed",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\SkullBackRed.dds"
+    },
+    {
+        "name": "BBC_SkullBreast2_d",
+        "section": "BBC CapTats (Breast) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\SkullBreast2_d.dds"
+    },
+    {
+        "name": "BBC_SkullBreast_d",
+        "section": "BBC CapTats (Breast) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\SkullBreast_d.dds"
+    },
+    {
+        "name": "BBC_SkullFront",
+        "section": "BBC CapTats (Front)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\SkullFront.dds"
+    },
+    {
+        "name": "BBC_SkullLeg",
+        "section": "BBC CapTats (Leg) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\SkullLeg.dds"
+    },
+    {
+        "name": "BBC_SkullLowBack",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\SkullLowBack.dds"
+    },
+    {
+        "name": "BBC_SkullNeck",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\SkullNeck.dds"
+    },
+    {
+        "name": "BBC_SkullRedBelly",
+        "section": "BBC Belly",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\SkullRedBelly.dds"
+    },
+    {
+        "name": "BBC_Skulls2_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Skulls2_d.dds"
+    },
+    {
+        "name": "BBC_Skulls_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Skulls_d.dds"
+    },
+    {
+        "name": "BBC_SkullTheFuck",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\SkullTheFuck.dds"
+    },
+    {
+        "name": "BBC_Slave2_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Slave2_d.dds"
+    },
+    {
+        "name": "BBC_SlaveBack",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\SlaveBack.dds"
+    },
+    {
+        "name": "BBC_SlaveBreast_d",
+        "section": "BBC CapTats (Breast) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\SlaveBreast_d.dds"
+    },
+    {
+        "name": "BBC_SlaveInnerThigh",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\SlaveInnerThigh.dds"
+    },
+    {
+        "name": "BBC_SlaveLegBack",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\SlaveLegBack.dds"
+    },
+    {
+        "name": "BBC_SlaveNeck",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\SlaveNeck.dds"
+    },
+    {
+        "name": "BBC_SlaveRearThigh",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\SlaveRearThigh.dds"
+    },
+    {
+        "name": "BBC_SlaveRightArm",
+        "section": "BBC CapTats (Arm) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\SlaveRightArm.dds"
+    },
+    {
+        "name": "BBC_SlaveryHand",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\SlaveryHand.dds"
+    },
+    {
+        "name": "BBC_SlaveTits_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\SlaveTits_d.dds"
+    },
+    {
+        "name": "BBC_SlutHip",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\SlutHip.dds"
+    },
+    {
+        "name": "BBC_SlutNeck",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\SlutNeck.dds"
+    },
+    {
+        "name": "BBC_SlutSide",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\SlutSide.dds"
+    },
+    {
+        "name": "BBC_SMBackThigh",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\SMBackThigh.dds"
+    },
+    {
+        "name": "BBC_SMBrainlessFront",
+        "section": "BBC CapTats (Front)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\SMBrainlessFront.dds"
+    },
+    {
+        "name": "BBC_SMFaceFront",
+        "section": "BBC Face",
+        "area": "Face",
+        "texture": "CaptiveTattoos\\JB\\SMFaceFront.dds"
+    },
+    {
+        "name": "BBC_SMLestTalkBack",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\SMLestTalkBack.dds"
+    },
+    {
+        "name": "BBC_SMMashFront",
+        "section": "BBC CapTats (Front)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\SMMashFront.dds"
+    },
+    {
+        "name": "BBC_SMPetBelly",
+        "section": "BBC Belly",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\SMPetBelly.dds"
+    },
+    {
+        "name": "BBC_SMPetButt",
+        "section": "BBC CapTats (Butt) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\SMPetButt.dds"
+    },
+    {
+        "name": "BBC_SMPetThighBack",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\SMPetThighBack.dds"
+    },
+    {
+        "name": "BBC_SMRightArm",
+        "section": "BBC CapTats (Arm) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\SMRightArm.dds"
+    },
+    {
+        "name": "BBC_SnowbunnyBackLow",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\SnowbunnyBackLow.dds"
+    },
+    {
+        "name": "BBC_SnowbunnyBreast",
+        "section": "BBC CapTats (Breast) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\SnowbunnyBreast.dds"
+    },
+    {
+        "name": "BBC_SnowbunnyFront",
+        "section": "BBC CapTats (Front)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\SnowbunnyFront.dds"
+    },
+    {
+        "name": "BBC_SoftBelly",
+        "section": "BBC Belly",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\SoftBelly.dds"
+    },
+    {
+        "name": "BBC_SoftBreast",
+        "section": "BBC CapTats (Breast) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\SoftBreast.dds"
+    },
+    {
+        "name": "BBC_SoftButt",
+        "section": "BBC CapTats (Butt) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\SoftButt.dds"
+    },
+    {
+        "name": "BBC_SoftLowBack",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\SoftLowBack.dds"
+    },
+    {
+        "name": "BBC_SoldLeg",
+        "section": "BBC CapTats (Leg) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\SoldLeg.dds"
+    },
+    {
+        "name": "BBC_Sold_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Sold_d.dds"
+    },
+    {
+        "name": "BBC_Solid white",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Solid white.dds"
+    },
+    {
+        "name": "BBC_SomeSugarThighBack",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\SomeSugarThighBack.dds"
+    },
+    {
+        "name": "BBC_SpadeAnkle",
+        "section": "BBC CapTats (Ankle) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\SpadeAnkle.dds"
+    },
+    {
+        "name": "BBC_Spades_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Spades_d.dds"
+    },
+    {
+        "name": "BBC_Spanked Ass Heavy",
+        "section": "BBC CapTats (Ass) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Spanked Ass Heavy.dds"
+    },
+    {
+        "name": "BBC_Spanked Ass",
+        "section": "BBC CapTats (Ass) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Spanked Ass.dds"
+    },
+    {
+        "name": "BBC_SpankIfBad_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\SpankIfBad_d.dds"
+    },
+    {
+        "name": "BBC_Spank_Breast",
+        "section": "BBC CapTats (Breast) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Spank_Breast.dds"
+    },
+    {
+        "name": "BBC_SpitFront",
+        "section": "BBC CapTats (Front)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\SpitFront.dds"
+    },
+    {
+        "name": "BBC_SpitRoastFront",
+        "section": "BBC CapTats (Front)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\SpitRoastFront.dds"
+    },
+    {
+        "name": "BBC_StayGood_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\StayGood_d.dds"
+    },
+    {
+        "name": "BBC_StepByTryThigh",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\StepByTryThigh.dds"
+    },
+    {
+        "name": "BBC_StillLoveU_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\StillLoveU_d.dds"
+    },
+    {
+        "name": "BBC_StillTight_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\StillTight_d.dds"
+    },
+    {
+        "name": "BBC_StimpakMarks",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\StimpakMarks.dds"
+    },
+    {
+        "name": "BBC_StopThinkingBack_d",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\StopThinkingBack_d.dds"
+    },
+    {
+        "name": "BBC_StopThinkingBelly_d",
+        "section": "BBC Belly",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\StopThinkingBelly_d.dds"
+    },
+    {
+        "name": "BBC_StrangersInnerSide",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\StrangersInnerSide.dds"
+    },
+    {
+        "name": "BBC_StupidBreederButt",
+        "section": "BBC CapTats (Butt) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\StupidBreederButt.dds"
+    },
+    {
+        "name": "BBC_Sub2_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Sub2_d.dds"
+    },
+    {
+        "name": "BBC_Sub3_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Sub3_d.dds"
+    },
+    {
+        "name": "BBC_SubmissiveNeck",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\SubmissiveNeck.dds"
+    },
+    {
+        "name": "BBC_Submissive_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Submissive_d.dds"
+    },
+    {
+        "name": "BBC_SubNeck",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\SubNeck.dds"
+    },
+    {
+        "name": "BBC_SummerSlutBreast",
+        "section": "BBC CapTats (Breast) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\SummerSlutBreast.dds"
+    },
+    {
+        "name": "BBC_SuperiorRaceBack",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\SuperiorRaceBack.dds"
+    },
+    {
+        "name": "BBC_SuperMutantArm",
+        "section": "BBC CapTats (Arm) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\SuperMutantArm.dds"
+    },
+    {
+        "name": "BBC_SuperMutantArmRight",
+        "section": "BBC CapTats (Arm) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\SuperMutantArmRight.dds"
+    },
+    {
+        "name": "BBC_SuperMutantBack",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\SuperMutantBack.dds"
+    },
+    {
+        "name": "BBC_SuperMutantBelly",
+        "section": "BBC Belly",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\SuperMutantBelly.dds"
+    },
+    {
+        "name": "BBC_SuperMutantFaceBack",
+        "section": "BBC Face",
+        "area": "Face",
+        "texture": "CaptiveTattoos\\JB\\SuperMutantFaceBack.dds"
+    },
+    {
+        "name": "BBC_Sweet_Belly",
+        "section": "BBC Belly",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Sweet_Belly.dds"
+    },
+    {
+        "name": "BBC_TakeThisBack",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\TakeThisBack.dds"
+    },
+    {
+        "name": "BBC_TamedByRaiders_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\TamedByRaiders_d.dds"
+    },
+    {
+        "name": "BBC_TamedRearThigh",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\TamedRearThigh.dds"
+    },
+    {
+        "name": "BBC_TamedThighBack",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\TamedThighBack.dds"
+    },
+    {
+        "name": "BBC_Tamed_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Tamed_d.dds"
+    },
+    {
+        "name": "BBC_TastyAssButt",
+        "section": "BBC CapTats (Butt) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\TastyAssButt.dds"
+    },
+    {
+        "name": "BBC_TastyAssFrontLeg",
+        "section": "BBC CapTats (Front)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\TastyAssFrontLeg.dds"
+    },
+    {
+        "name": "BBC_ThiefLeftArm",
+        "section": "BBC CapTats (Arm) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\ThiefLeftArm.dds"
+    },
+    {
+        "name": "BBC_ThighBruises",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\ThighBruises.dds"
+    },
+    {
+        "name": "BBC_ThisLiceHip",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\ThisLiceHip.dds"
+    },
+    {
+        "name": "BBC_ThisLiceThighBack",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\ThisLiceThighBack.dds"
+    },
+    {
+        "name": "BBC_Tied2_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Tied2_d.dds"
+    },
+    {
+        "name": "BBC_Tied_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Tied_d.dds"
+    },
+    {
+        "name": "BBC_ToLootAndEnslave2_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\ToLootAndEnslave2_d.dds"
+    },
+    {
+        "name": "BBC_tongue_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\tongue_d.dds"
+    },
+    {
+        "name": "BBC_TrainedNeck",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\TrainedNeck.dds"
+    },
+    {
+        "name": "BBC_TrampStamp05",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\TrampStamp05.dds"
+    },
+    {
+        "name": "BBC_TrampStamp06",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\TrampStamp06.dds"
+    },
+    {
+        "name": "BBC_TrampStamp07",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\TrampStamp07.dds"
+    },
+    {
+        "name": "BBC_TrampStamp08",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\TrampStamp08.dds"
+    },
+    {
+        "name": "BBC_TrampStamp09",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\TrampStamp09.dds"
+    },
+    {
+        "name": "BBC_TrampStamp10",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\TrampStamp10.dds"
+    },
+    {
+        "name": "BBC_TrampStamp22",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\TrampStamp22.dds"
+    },
+    {
+        "name": "BBC_TrophyBreast",
+        "section": "BBC CapTats (Breast) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\TrophyBreast.dds"
+    },
+    {
+        "name": "BBC_TrophyButt",
+        "section": "BBC CapTats (Butt) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\TrophyButt.dds"
+    },
+    {
+        "name": "BBC_TrophyFront",
+        "section": "BBC CapTats (Front)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\TrophyFront.dds"
+    },
+    {
+        "name": "BBC_TrophySide",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\TrophySide.dds"
+    },
+    {
+        "name": "BBC_TwoHearts_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\TwoHearts_d.dds"
+    },
+    {
+        "name": "BBC_UAintShitBreast",
+        "section": "BBC CapTats (Breast) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\UAintShitBreast.dds"
+    },
+    {
+        "name": "BBC_Urinal_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Urinal_d.dds"
+    },
+    {
+        "name": "BBC_UseMeFront",
+        "section": "BBC CapTats (Front)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\UseMeFront.dds"
+    },
+    {
+        "name": "BBC_UseMeNeck",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\UseMeNeck.dds"
+    },
+    {
+        "name": "BBC_UseMe_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\UseMe_d.dds"
+    },
+    {
+        "name": "BBC_UseThemBack",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\UseThemBack.dds"
+    },
+    {
+        "name": "BBC_VaultTecAss",
+        "section": "BBC CapTats (Ass) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\VaultTecAss.dds"
+    },
+    {
+        "name": "BBC_VaultTecBelly",
+        "section": "BBC Belly",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\VaultTecBelly.dds"
+    },
+    {
+        "name": "BBC_VaultTecFront",
+        "section": "BBC CapTats (Front)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\VaultTecFront.dds"
+    },
+    {
+        "name": "BBC_VaultTecFrontLeg",
+        "section": "BBC CapTats (Front)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\VaultTecFrontLeg.dds"
+    },
+    {
+        "name": "BBC_VaultTecLowBack",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\VaultTecLowBack.dds"
+    },
+    {
+        "name": "BBC_VaultTecNeck",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\VaultTecNeck.dds"
+    },
+    {
+        "name": "BBC_Waiting_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Waiting_d.dds"
+    },
+    {
+        "name": "BBC_WasHereButt",
+        "section": "BBC CapTats (Butt) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\WasHereButt.dds"
+    },
+    {
+        "name": "BBC_WasHereFront",
+        "section": "BBC CapTats (Front)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\WasHereFront.dds"
+    },
+    {
+        "name": "BBC_WeaponsShoulder_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\WeaponsShoulder_d.dds"
+    },
+    {
+        "name": "BBC_Weapons_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Weapons_d.dds"
+    },
+    {
+        "name": "BBC_Weapon_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Weapon_d.dds"
+    },
+    {
+        "name": "BBC_WeCanPlayUA_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\WeCanPlayUA_d.dds"
+    },
+    {
+        "name": "BBC_WeCanPlay_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\WeCanPlay_d.dds"
+    },
+    {
+        "name": "BBC_Whip1_Pussy",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Whip1_Pussy.dds"
+    },
+    {
+        "name": "BBC_Whip2_Back",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Whip2_Back.dds"
+    },
+    {
+        "name": "BBC_WhipHeavy_Back",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\WhipHeavy_Back.dds"
+    },
+    {
+        "name": "BBC_Whipped Ass Heavy",
+        "section": "BBC CapTats (Ass) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Whipped Ass Heavy.dds"
+    },
+    {
+        "name": "BBC_Whipped Ass",
+        "section": "BBC CapTats (Ass) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Whipped Ass.dds"
+    },
+    {
+        "name": "BBC_Whip_Back",
+        "section": "BBC CapTats (Back) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Whip_Back.dds"
+    },
+    {
+        "name": "BBC_Whip_Breast",
+        "section": "BBC CapTats (Breast) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Whip_Breast.dds"
+    },
+    {
+        "name": "BBC_Whip_Front",
+        "section": "BBC CapTats (Front)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Whip_Front.dds"
+    },
+    {
+        "name": "BBC_WhoreNeck",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\WhoreNeck.dds"
+    },
+    {
+        "name": "BBC_WombTattoo09",
+        "section": "BBC Womb",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\WombTattoo09.dds"
+    },
+    {
+        "name": "BBC_WombTattoo10",
+        "section": "BBC Womb",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\WombTattoo10.dds"
+    },
+    {
+        "name": "BBC_WombTattoo11",
+        "section": "BBC Womb",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\WombTattoo11.dds"
+    },
+    {
+        "name": "BBC_WombTattoo12",
+        "section": "BBC Womb",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\WombTattoo12.dds"
+    },
+    {
+        "name": "BBC_WombTattoo13",
+        "section": "BBC Womb",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\WombTattoo13.dds"
+    },
+    {
+        "name": "BBC_WombTattoo14",
+        "section": "BBC Womb",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\WombTattoo14.dds"
+    },
+    {
+        "name": "BBC_WombTattoo15",
+        "section": "BBC Womb",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\WombTattoo15.dds"
+    },
+    {
+        "name": "BBC_WombTattoo16",
+        "section": "BBC Womb",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\WombTattoo16.dds"
+    },
+    {
+        "name": "BBC_WombTattoo17",
+        "section": "BBC Womb",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\WombTattoo17.dds"
+    },
+    {
+        "name": "BBC_WombTattoo18",
+        "section": "BBC Womb",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\WombTattoo18.dds"
+    },
+    {
+        "name": "BBC_WombTattoo19",
+        "section": "BBC Womb",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\WombTattoo19.dds"
+    },
+    {
+        "name": "BBC_WombTattoo20",
+        "section": "BBC Womb",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\WombTattoo20.dds"
+    },
+    {
+        "name": "BBC_WombTattoo21",
+        "section": "BBC Womb",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\WombTattoo21.dds"
+    },
+    {
+        "name": "BBC_WombTattoo22",
+        "section": "BBC Womb",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\WombTattoo22.dds"
+    },
+    {
+        "name": "BBC_WombTattoo23",
+        "section": "BBC Womb",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\WombTattoo23.dds"
+    },
+    {
+        "name": "BBC_WombTattoo24",
+        "section": "BBC Womb",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\WombTattoo24.dds"
+    },
+    {
+        "name": "BBC_WombTattoo25",
+        "section": "BBC Womb",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\WombTattoo25.dds"
+    },
+    {
+        "name": "BBC_WombTattoo26",
+        "section": "BBC Womb",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\WombTattoo26.dds"
+    },
+    {
+        "name": "BBC_WombTattoo27",
+        "section": "BBC Womb",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\WombTattoo27.dds"
+    },
+    {
+        "name": "BBC_WombTattoo28",
+        "section": "BBC Womb",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\WombTattoo28.dds"
+    },
+    {
+        "name": "BBC_WombTattoo29",
+        "section": "BBC Womb",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\WombTattoo29.dds"
+    },
+    {
+        "name": "BBC_WombTattoo30",
+        "section": "BBC Womb",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\WombTattoo30.dds"
+    },
+    {
+        "name": "BBC_WorshipFront",
+        "section": "BBC CapTats (Front)",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\WorshipFront.dds"
+    },
+    {
+        "name": "BBC_WorthlessCuntArm",
+        "section": "BBC CapTats (Arm) ",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\WorthlessCuntArm.dds"
+    },
+    {
+        "name": "BBC_WorthlessCuntBelly",
+        "section": "BBC Belly",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\WorthlessCuntBelly.dds"
+    },
+    {
+        "name": "BBC_YourLips_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\YourLips_d.dds"
+    },
+    {
+        "name": "BBC_YoursBelly_d",
+        "section": "BBC Belly",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\YoursBelly_d.dds"
+    },
+    {
+        "name": "BBC_Yours_d",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\Yours_d.dds"
+    },
+    {
+        "name": "BBC_ZooHand",
+        "section": "ILoveBBC",
+        "area": "Body",
+        "texture": "CaptiveTattoos\\JB\\ZooHand.dds"
+    }
+]
