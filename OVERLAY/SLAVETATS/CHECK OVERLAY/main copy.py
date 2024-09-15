@@ -2,6 +2,40 @@ import os
 import json
 from collections import defaultdict
 
+def find_overlay_data_all(target_directory, export_directory, save_file):
+    # สร้างโฟลเดอร์ถ้าไม่มี
+    if not os.path.exists(export_directory):
+        os.makedirs(export_directory)
+
+    save_path = os.path.join(export_directory, save_file)
+    
+    # สร้าง dictionary เก็บข้อมูลไฟล์
+    file_dict = {}
+
+    # ค้นหาไฟล์ใน target directory
+    for root, _, files in os.walk(target_directory):
+        for file in files:
+            # กรองเฉพาะไฟล์ที่เป็น .dds หรือ .png
+            if file.endswith('.dds') or file.endswith('.png'):
+                # แยกชื่อไฟล์และส่วนขยาย
+                base_name, ext = os.path.splitext(file)
+
+                # ถ้าเป็นไฟล์แบบ normal เช่น Spades.dds
+                if not ('_' in base_name):
+                    file_dict[base_name] = file
+                # ถ้าเป็นไฟล์ที่ลงท้ายด้วย _d.dds แต่ไม่มีไฟล์ปกติ
+                elif base_name.endswith('_d'):
+                    original_name = base_name[:-2]  # ตัด '_d' ออก
+                    # ถ้าไฟล์ปกติยังไม่มีใน dict, ให้ใช้ไฟล์ _d แทน
+                    if original_name not in file_dict:
+                        file_dict[original_name] = file
+    
+    # บันทึก JSON ลงไฟล์
+    with open(save_path, 'w') as json_file:
+        json.dump(list(file_dict.values()), json_file, indent=4)
+
+    print(f"Overlay JSON created and saved to {save_path}")
+
 def extract_json(json_file_path):
     data_json = []  # ใช้ set เพื่อป้องกันการซ้ำ
     try:
@@ -50,7 +84,6 @@ def extract_texture_names(json_file_path):
         print(f"Error: The file at {json_file_path} is not a valid JSON.")
     except ValueError as e:
         print(f"Error: {e}")
-    
     return texture_names
 
 def save_to_export_folder(export_folder_path, texture_names):
@@ -60,7 +93,7 @@ def save_to_export_folder(export_folder_path, texture_names):
             os.makedirs(export_folder_path)
         
         # บันทึกข้อมูลลงในไฟล์ JSON
-        export_file_path = os.path.join(export_folder_path, 'export_data.json')
+        export_file_path = os.path.join(export_folder_path, 'find_j_non_duplicate.json')
         with open(export_file_path, 'w') as file:
             json.dump(list(texture_names), file, indent=4)
         
@@ -69,32 +102,34 @@ def save_to_export_folder(export_folder_path, texture_names):
     except IOError as e:
         print(f"Error: {e}")
 
-def process_directory(import_directory_path, export_directory_path):
-    all_texture_names = set()
-    
-    try:
-        # ตรวจสอบว่าไดเรกทอรีมีอยู่
-        if not os.path.isdir(import_directory_path):
-            raise ValueError(f"The directory {import_directory_path} does not exist.")
+# def process_directory(import_directory_path, export_directory_path):
+#     all_texture_names = set()
+#     # print(import_directory_path)
+#     # print(export_directory_path)
+#     try:
+#         # ตรวจสอบว่าไดเรกทอรีมีอยู่
+#         if not os.path.isdir(import_directory_path):
+#             raise ValueError(f"The directory {import_directory_path} does not exist.")
         
-        # อ่านรายชื่อไฟล์ในไดเรกทอรี
-        files = os.listdir(import_directory_path)
+#         # อ่านรายชื่อไฟล์ในไดเรกทอรี
+#         files = os.listdir(import_directory_path)
         
-        # กรองเฉพาะไฟล์ JSON
-        json_files = [f for f in files if f.endswith('.json')]
+#         # กรองเฉพาะไฟล์ JSON
+#         json_files = [f for f in files if f.endswith('.json')]
         
-        for json_file in json_files:
-            json_file_path = os.path.join(import_directory_path, json_file)
+#         for json_file in json_files:
+#             json_file_path = os.path.join(import_directory_path, json_file)
             
-            # ดึงชื่อไฟล์และบันทึกลงใน set
-            texture_names = extract_texture_names(json_file_path)
-            all_texture_names.update(texture_names)
+#             # ดึงชื่อไฟล์และบันทึกลงใน set
+#             texture_names = extract_texture_names(json_file_path)
+#             all_texture_names.update(texture_names)
         
-        # บันทึกข้อมูลทั้งหมดลงในโฟลเดอร์ export
-        save_to_export_folder(export_directory_path, all_texture_names)
+#         print(all_texture_names)
+#         # บันทึกข้อมูลทั้งหมดลงในโฟลเดอร์ export
+#         save_to_export_folder(export_directory_path, all_texture_names)
     
-    except ValueError as e:
-        print(f"Error: {e}")
+#     except ValueError as e:
+#         print(f"Error: {e}")
 
 def process_find_overlay(overlay_directory_path, textures_json_path, export_directory_path):
     try:
@@ -204,26 +239,28 @@ def find_remove(overlay_non_duplicate_path, export_directory_path):
     except Exception as e:
         print(f"Error: {e}")
 
+####################################################################################################################################################################
+def prepare_overlay_json():
+
 if __name__ == "__main__":
-    # Path to the import and export directories
-    import_directory_path = os.path.join(os.getcwd(), 'import')
-    export_directory_path = os.path.join(os.getcwd(), 'export')
+    # # Path to the import and export directories
+    # import_directory_path = os.path.join(os.getcwd(), 'import')
+    # export_directory_path = os.path.join(os.getcwd(), 'export')
+    # # overlay_directory_path = r"E:\SKYRIM MAKE MOD\TATTOO\CaptiveTattoos_BBC_RMO\Textures\Actors\Character\slavetats\CaptiveTattoos\JB"
+    # textures_json_path = os.path.join(export_directory_path, 'find_j_non_duplicate.json')
+    # overlay_non_duplicate_path = os.path.join(export_directory_path, 'overlay_non_duplicate.json')
+    # export_overlay_path = os.path.join(export_directory_path, 'export_overlay.json')
+    # import_data_overlay_path = os.path.join(import_directory_path, "CaptiveTattoos.json")
+    # รันโปรแกรม
+    # find_overlay_data_all(target_directory, export_directory, 'data_all.json')
 
-    overlay_directory_path = r"E:\SKYRIM MAKE MOD\TATTOO\CaptiveTattoos_BBC_RMO\Textures\Actors\Character\slavetats\CaptiveTattoos\JB"
-    textures_json_path = os.path.join(export_directory_path, 'export_data.json')
 
-    overlay_non_duplicate_path = os.path.join(export_directory_path, 'overlay_non_duplicate.json')
-    export_overlay_path = os.path.join(export_directory_path, 'export_overlay.json')
-
-    import_data_overlay_path = os.path.join(import_directory_path, "CaptiveTattoos.json")
-    
-    # # Export
     # process_directory(import_directory_path, export_directory_path)
 
     # # # FIND JOSN
     # process_find_overlay(overlay_directory_path, textures_json_path, export_directory_path)
 
-    # # # Define lookup data
+    # # # # Define lookup data
     # lookup_data = [
     #     {'section': 'BBC Belly', 'value': 'belly', 'area': 'Body'},
     #     {'section': 'BBC Womb', 'value': 'womb', 'area': 'Body'},
@@ -238,8 +275,26 @@ if __name__ == "__main__":
     #     {'section': 'BBC CapTats (Ankle) ', 'value': 'ankle', 'area': 'Body'} ,
     #     {'section': 'BBC CapTats (Ass) ', 'value': 'ass', 'area': 'Body'} , 
     # ]
+
+    # # เรียกใช้ฟังก์ชัน find_remove
+    # find_remove(import_data_overlay_path, export_directory_path)
+
+    # ########################################### ESP
+    # # # # FIND TEXT
+    # process_find_overlay(overlay_directory_path, textures_json_path, export_directory_path)
+
+
+    # ปรับใหม่
+    target_directory = r"E:\SKYRIM MAKE MOD\TATTOO\CaptiveTattoos_BBC_RMO\Textures\Actors\Character\slavetats\CaptiveTattoos\JB"
+    export_directory = os.path.join(os.getcwd(), 'export')
+    import_directory = os.path.join(os.getcwd(), 'import')
+    final_directory = os.path.join(os.getcwd(), 'final')
+
+    
+    find_overlay_data_all(target_directory, export_directory, 'data_all.json')
+
+    prepare_overlay_json(import_directory, export_directory, 'CaptiveTattoos.json', 'data_read.json')
+
     # # Create the overlay JSON
-    # create_overlay_json(overlay_non_duplicate_path, export_overlay_path, lookup_data)
+    create_overlay_json(overlay_non_duplicate_path, export_overlay_path, lookup_data)
    
-    # เรียกใช้ฟังก์ชัน find_remove
-    find_remove(import_data_overlay_path, export_directory_path)

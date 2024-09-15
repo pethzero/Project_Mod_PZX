@@ -1,0 +1,482 @@
+[
+	{
+        "name" : "BBCWhoreBreast",
+        "section": "CapTats (Front Breast)",
+        "area": "Body",
+        "texture" : "CaptiveTattoos\\JB\\BBCWhoreBreast.dds"
+	},
+	{
+        "name" : "BackThigh_BlackOwned",
+        "section": "CapTats (Front Thigh)",
+        "area": "Body",
+        "texture" : "CaptiveTattoos\\JB\\BackThigh_BlackOwned.dds"
+	},
+	{
+        "name" : "BunnyHip",
+        "section": "CapTats (Front Hip)",
+        "area": "Body",
+        "texture" : "CaptiveTattoos\\JB\\BunnyHip.dds"
+	},
+	{
+        "name" : "QueenSpade2Belly",
+        "section": "CapTats (Front Belly)",
+	    "area": "Body",
+        "texture" : "CaptiveTattoos\\JB\\QueenSpade2Belly.dds"
+	},
+	{
+        "name" : "SnowbunnyBacklow",
+        "section": "CapTats (Back Low)",
+        "area": "Body",
+        "texture" : "CaptiveTattoos\\JB\\SnowbunnyBacklow.dds"
+	},
+	{
+        "name" : "SnowBunnyBreast",
+        "section": "CapTats (Front Breast)",
+        "area": "Body",
+        "texture" : "CaptiveTattoos\\JB\\SnowBunnyBreast.dds"
+	},
+	{
+        "name" : "SnowBunnyFront",
+        "section": "CapTats (Front)",
+        "area": "Body",
+        "texture" : "CaptiveTattoos\\JB\\SnowBunnyFront.dds"
+	},
+	{
+        "name" : "Spade2Back",
+        "section": "CapTats (Back)",
+        "area": "Body",
+        "texture" : "CaptiveTattoos\\JB\\Spade2Back.dds"
+	},
+	{
+        "name" : "ThighL_SpadeYvy",
+        "section": "CapTats (Front Thigh)",
+        "area": "Body",
+        "texture" : "CaptiveTattoos\\JB\\ThighL_SpadeYvy.dds"
+	},
+	{
+        "name" : "SpadeYvyFront",
+        "section": "CapTats (Front)",
+        "area": "Body",
+        "texture" : "CaptiveTattoos\\JB\\SpadeYvyFront.dds"
+	},
+	{
+        "name" : "ThighR_SpadeYvy",
+        "section": "CapTats (Front Thigh)",
+        "area": "Body",
+        "texture" : "CaptiveTattoos\\JB\\ThighR_SpadeYvy.dds"
+	},
+	{
+        "name" : "Back_BlackOwned",
+        "section": "CapTats (Back)",
+        "area": "Body",
+        "texture" : "CaptiveTattoos\\JB\\Back_BlackOwned.dds"
+	},
+	{
+        "name" : "BackLow_QueenSpades3",
+        "section": "CapTats (Back Low)",
+        "area": "Body",
+        "texture" : "CaptiveTattoos\\JB\\BackLow_QueenSpades3.dds"
+	},
+	{
+        "name" : "BackNeck_BlackOwned",
+        "section": "CapTats (Back Neck)",
+        "area": "Body",
+        "texture" : "CaptiveTattoos\\JB\\BackNeck_BlackOwned.dds"
+	},
+	{
+        "name" : "Belly_BonerGarage",
+        "section": "CapTats (Front Belly)",
+        "area": "Body",
+        "texture" : "CaptiveTattoos\\JB\\Belly_BonerGarage.dds"
+	},
+	{
+        "name" : "Belly_BonerGarage2",
+        "section": "CapTats (Front Belly)",
+        "area": "Body",
+        "texture" : "CaptiveTattoos\\JB\\Belly_BonerGarage2.dds"
+	},
+	{
+        "name" : "Belly_SnowBunny2",
+        "section": "CapTats (Front)",
+        "area": "Body",
+        "texture" : "CaptiveTattoos\\JB\\Belly_SnowBunny2.dds"
+	},
+	{
+        "name" : "ArmLeft_Ivy",
+        "section": "CapTats (Arm Right)",
+        "area": "Body",
+        "texture" : "CaptiveTattoos\\JB\\ArmLeft_Ivy.dds"
+	},
+	{
+        "name" : "ArmRight_Ivy",
+        "section": "CapTats (Arm Left)",
+        "area": "Body",
+        "texture" : "CaptiveTattoos\\JB\\ArmRight_Ivy.dds"
+	},
+	{
+        "name" : "ArmLeft_QOS",
+        "section": "CapTats (Arm Left)",
+        "area": "Body",
+        "texture" : "CaptiveTattoos\\JB\\ArmLeft_QOS.dds"
+	},
+	{
+        "name" : "ArmRight_QOS",
+        "section": "CapTats (Arm Right)",
+        "area": "Body",
+        "texture" : "CaptiveTattoos\\JB\\ArmRight_QOS.dds"
+	},
+	{
+        "name" : "ArmRight_Bull",
+        "section": "CapTats (Arm Right)",
+        "area": "Body",
+        "texture" : "CaptiveTattoos\\JB\\ArmRight_Bull.dds"
+	},
+	{
+        "name" : "Back_BBC",
+        "section": "CapTats (Back)",
+        "area": "Body",
+        "texture" : "CaptiveTattoos\\JB\\Back_BBC.dds"
+	},
+	{
+        "name" : "Back_Bull",
+        "section": "CapTats (Back)",
+        "area": "Body",
+        "texture" : "CaptiveTattoos\\JB\\Back_Bull.dds"
+	},
+	{
+        "name" : "Belly_BBC_BabyMaker",
+        "section": "CapTats (Front Belly)",
+        "area": "Body",
+        "texture" : "CaptiveTattoos\\JB\\Belly_BBC_BabyMaker.dds"
+	},
+	{
+        "name" : "Belly_QOS1",
+        "section": "CapTats (Front Belly)",
+        "area": "Body",
+        "texture" : "CaptiveTattoos\\JB\\Belly_QOS1.dds"
+	},
+	{
+        "name" : "Breast_QOS",
+        "section": "CapTats (Front Breast)",
+        "area": "Body",
+        "texture" : "CaptiveTattoos\\JB\\Breast_QOS.dds"
+	},
+	{
+        "name" : "Butt_BBC",
+        "section": "CapTats (Back Butt)",
+        "area": "Body",
+        "texture" : "CaptiveTattoos\\JB\\Butt_BBC.dds"
+	},
+	{
+        "name" : "FrontThigh_Bull",
+        "section": "CapTats (Front Thigh)",
+        "area": "Body",
+        "texture" : "CaptiveTattoos\\JB\\FrontThigh_Bull.dds"
+	},
+	{
+        "name" : "FrontUp_Snowbunny",
+        "section": "CapTats (Front)",
+        "area": "Body",
+        "texture" : "CaptiveTattoos\\JB\\FrontUp_Snowbunny.dds"
+	},
+	{
+        "name" : "Hip_BBC",
+        "section": "CapTats (Front Hip)",
+        "area": "Body",
+        "texture" : "CaptiveTattoos\\JB\\Hip_BBC.dds"
+	},
+	{
+        "name" : "Front_QOS_Ivy",
+        "section": "CapTats (Front)",
+        "area": "Body",
+        "texture" : "CaptiveTattoos\\JB\\Front_QOS_Ivy.dds"
+	},
+	{
+        "name" : "Belly_BBC_Tats",
+        "section": "CapTats (Front Belly)",
+        "area": "Body",
+        "texture" : "CaptiveTattoos\\JB\\Belly_BBC_Tats.dds"
+	},
+	{
+        "name" : "BackLow_BBC",
+        "section": "CapTats (Back Low)",
+        "area": "Body",
+        "texture" : "CaptiveTattoos\\JB\\BackLow_BBC.dds"
+	},
+	{
+        "name" : "Butt_BBCOwned",
+        "section": "CapTats (Back Butt)",
+        "area": "Body",
+        "texture" : "CaptiveTattoos\\JB\\Butt_BBCOwned.dds"
+	},
+	{
+        "name" : "Butt_BBCQueen",
+        "section": "CapTats (Back Butt)",
+        "area": "Body",
+        "texture" : "CaptiveTattoos\\JB\\Butt_BBCQueen.dds"
+	},
+	{
+        "name" : "Back_bbc2",
+        "section": "CapTats (Back)",
+        "area": "Body",
+        "texture" : "CaptiveTattoos\\JB\\Back_bbc2.dds"
+	},
+	{
+        "name" : "Back_BBCProperty",
+        "section": "CapTats (Back)",
+        "area": "Body",
+        "texture" : "CaptiveTattoos\\JB\\Back_BBCProperty.dds"
+	},
+	{
+        "name" : "BackLow_BlackOnly",
+        "section": "CapTats (Back Low)",
+        "area": "Body",
+        "texture" : "CaptiveTattoos\\JB\\Back_bbc2.dds"
+	},
+	{
+        "name" : "BackLow_SnowBunny",
+        "section": "CapTats (Back Low)",
+        "area": "Body",
+        "texture" : "CaptiveTattoos\\JB\\BackLow_SnowBunny.dds"
+	},
+	{
+        "name" : "Belly_BBC_Lock",
+        "section": "CapTats (Front Belly)",
+        "area": "Body",
+        "texture" : "CaptiveTattoos\\JB\\Belly_BBC_Lock.dds"
+	},
+	{
+        "name" : "Belly_BBC_Necklace",
+        "section": "CapTats (Front Belly)",
+        "area": "Body",
+        "texture" : "CaptiveTattoos\\JB\\Belly_BBC_Necklage.dds"
+	},
+	{
+        "name" : "Belly_BBC_Wings",
+        "section": "CapTats (Front Belly)",
+        "area": "Body",
+        "texture" : "CaptiveTattoos\\JB\\Belly_BBC_Wings.dds"
+	},
+	{
+        "name" : "Breast_LoveBBC",
+        "section": "CapTats (Front Breast)",
+        "area": "Body",
+        "texture" : "CaptiveTattoos\\JB\\Breast_LoveBBC.dds"
+	},
+	{
+        "name" : "Breast_QOS1",
+        "section": "CapTats (Front Breast)",
+        "area": "Body",
+        "texture" : "CaptiveTattoos\\JB\\Breast_QOS1.dds"
+	},
+	{
+        "name" : "FrontThigh_BlackOwned",
+        "section": "CapTats (Front Thigh)",
+        "area": "Body",
+        "texture" : "CaptiveTattoos\\JB\\FrontThigh_BlackOwned.dds"
+	},
+	{
+        "name" : "FrontThigh_QOS",
+        "section": "CapTats (Front Thigh)",
+        "area": "Body",
+        "texture" : "CaptiveTattoos\\JB\\FrontThigh_QOS.dds"
+	},
+	{
+        "name" : "Hip_QOS2",
+        "section": "CapTats (Front Hip)",
+        "area": "Body",
+        "texture" : "CaptiveTattoos\\JB\\Hip_QOS2.dds"
+	},
+	{
+        "name" : "InnerThigh_BBC",
+        "section": "CapTats (Thigh Inner)",
+        "area": "Body",
+        "texture" : "CaptiveTattoos\\JB\\InnerThigh_BBC.dds"
+	},
+	{
+        "name" : "InnerThigh_BBC",
+        "section": "CapTats (Thigh Inner)",
+        "area": "Body",
+        "texture" : "CaptiveTattoos\\JB\\InnerThigh_BBC.dds"
+	},
+	{
+        "name" : "Front_BBCQueen",
+        "section": "CapTats (Front)",
+        "area": "Body",
+        "texture" : "CaptiveTattoos\\JB\\Front_BBCQueen.dds"
+	},
+	{
+        "name" : "Back_African",
+        "section": "CapTats (Back)",
+        "area": "Body",
+        "texture" : "CaptiveTattoos\\JB\\Back_African.dds"
+	},
+	{
+        "name" : "Back_BBC_Wings",
+        "section": "CapTats (Back)",
+        "area": "Body",
+        "texture" : "CaptiveTattoos\\JB\\Back_BBC_Wings.dds"
+	},
+	{
+        "name" : "Back_Snowbunny",
+        "section": "CapTats (Back)",
+        "area": "Body",
+        "texture" : "CaptiveTattoos\\JB\\Back_Snowbunny.dds"
+	},
+	{
+        "name" : "BackThigh_BBCProperty",
+        "section": "CapTats (Back Thigh)",
+        "area": "Body",
+        "texture" : "CaptiveTattoos\\JB\\BackThigh_BBCProperty.dds"
+	},
+	{
+        "name" : "BackThigh_Certified",
+        "section": "CapTats (Back Thigh)",
+        "area": "Body",
+        "texture" : "CaptiveTattoos\\JB\\BackThigh_Certified.dds"
+	},
+	{
+        "name" : "Belly_Certified",
+        "section": "CapTats (Front Belly)",
+        "area": "Body",
+        "texture" : "CaptiveTattoos\\JB\\Belly_Certified.dds"
+	},
+	{
+        "name" : "Butt_Certified",
+        "section": "CapTats (Back Butt)",
+        "area": "Body",
+        "texture" : "CaptiveTattoos\\JB\\Butt_Certified.dds"
+	},
+	{
+        "name" : "FrontUp_Snowbunny2",
+        "section": "CapTats (Front)",
+        "area": "Body",
+        "texture" : "CaptiveTattoos\\JB\\FrontUp_Snowbunny2.dds"
+	},
+	{
+        "name" : "Neck_Snowbunny",
+        "section": "CapTats (Back Neck)",
+        "area": "Body",
+        "texture" : "CaptiveTattoos\\JB\\Neck_Snowbunny.dds"
+	},
+	{
+        "name" : "Breast_R_QOS",
+        "section": "CapTats (Front Breast)",
+        "area": "Body",
+        "texture" : "CaptiveTattoos\\JB\\Breast_R_QOS.dds"
+	},
+	{
+        "name" : "Ankle_BBCIvy",
+        "section": "CapTats (Ankle)",
+        "area": "Body",
+        "texture" : "CaptiveTattoos\\JB\\Ankle_BBCIvy.dds"
+	},
+	{
+        "name" : "FrontThigh_SpadesStars",
+        "section": "CapTats (Front Thigh)",
+        "area": "Body",
+        "texture" : "CaptiveTattoos\\JB\\FrontThigh_SpadesStars.dds"
+	},
+	{
+        "name" : "FrontThigh_BBCOnly",
+        "section": "CapTats (Front Thigh)",
+        "area": "Body",
+        "texture" : "CaptiveTattoos\\JB\\FrontThigh_BBCOnly.dds"
+	},
+	{
+        "name" : "BBCWhoreBreast",
+        "section": "CapTats (Front Breast)",
+        "area": "Body",
+        "texture" : "CaptiveTattoos\\JB\\BBCWhoreBreast.dds"
+	},
+	{
+        "name" : "BBCWhoreCalf",
+        "section": "CapTats (Back Calf)",
+        "area": "Body",
+        "texture" : "CaptiveTattoos\\JB\\BBCWhoreCalf.dds"
+	},
+	{
+        "name" : "BBCHands",
+        "section": "CapTats ($Hands)",
+        "area": "hands",
+        "texture" : "CaptiveTattoos\\JB\\BBCHands.dds"
+	},
+	{
+        "name" : "Spades",
+        "section": "CapTats (Hip)",
+        "area": "Body",
+        "texture" : "CaptiveTattoos\\JB\\Spades.dds"
+	},
+	{
+        "name" : "SpadesAss",
+        "section": "CapTats (Back Butt)",
+        "area": "Body",
+        "texture" : "CaptiveTattoos\\JB\\SpadesAss.dds"
+	},
+	{
+        "name" : "SpadesLowBack",
+        "section": "CapTats (Back Low)",
+        "area": "Body",
+        "texture" : "CaptiveTattoos\\JB\\SpadesLowBack.dds"
+	},
+	{
+        "name" : "SpadesAnkle",
+        "section": "CapTats (Ankle)",
+        "area": "Body",
+        "texture" : "CaptiveTattoos\\JB\\SpadesAnkle.dds"
+	},
+	{
+        "name" : "SpadeBreast",
+        "section": "CapTats (Front Breast)",
+        "area": "Body",
+        "texture" : "CaptiveTattoos\\JB\\SpadeBreast.dds"
+	},
+	{
+        "name" : "Spade2Back",
+        "section": "CapTats (Back)",
+        "area": "Body",
+        "texture" : "CaptiveTattoos\\JB\\Spade2Back.dds"
+	},
+	{
+        "name" : "BlackOwnedThigh",
+        "section": "CapTats (Back Thigh)",
+        "area": "Body",
+        "texture" : "CaptiveTattoos\\JB\\BlackOwnedThigh.dds"
+	},
+	{
+        "name" : "BellyBBCChastity",
+        "section": "CapTats (Front Belly)",
+        "area": "Body",
+		"texture" : "CaptiveTattoos\\JB\\BellyBBCChastity.dds"
+	},
+	{
+        "name" : "HipBBCPink",
+        "section": "CapTats (Front Hip)",
+        "area": "Body",
+        "texture" : "CaptiveTattoos\\JB\\HipBBCPink.dds"
+	},
+	{
+        "name" : "ButtSlapRed",
+        "section": "CapTats (Butt)",
+        "area": "Body",
+        "texture" : "CaptiveTattoos\\JB\\ButtSlapRed.dds"
+	},
+	{
+        "name" : "ButtSlapRed2",
+        "section": "CapTats (Butt)",
+        "area": "Body",
+        "texture" : "CaptiveTattoos\\JB\\ButtSlapRed2.dds"
+	},
+	{
+        "name" : "IvySides",
+        "section": "CapTats (Front Sides)",
+        "area": "Body",
+        "texture" : "CaptiveTattoos\\JB\\IvySides.dds"
+	},
+	{
+        "name" : "BreastSpadeCircles",
+        "section": "CapTats (Front Breast)",
+        "area": "Body",
+        "texture" : "CaptiveTattoos\\JB\\BreastSpadeCircles.dds"
+	}
+	]
