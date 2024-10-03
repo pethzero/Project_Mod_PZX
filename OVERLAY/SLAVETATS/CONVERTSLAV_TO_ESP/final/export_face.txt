@@ -1,0 +1,2 @@
+AddBodypaint("BBC_SMFaceFront","Actors\\Character\\Slavetats\\CaptiveTattoos\\JB\\SMFaceFront.dds")
+AddBodypaint("BBC_SuperMutantFaceBack","Actors\\Character\\Slavetats\\CaptiveTattoos\\JB\\SuperMutantFaceBack.dds")
