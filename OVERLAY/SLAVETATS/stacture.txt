@@ -1,0 +1,3 @@
+...\Textures\Actors\Character\slavetats\CaptiveTattoos\JB
+
+...\Textures\Actors\Character\slavetats\aaaaaa.json

@@ -1,6 +1,7 @@
 import hashlib
 import os
 import json
+import shutil
 # ใน system_pzx/lib/folder_manager.py
 class FolderManager:
     def __init__(self, base_path):
@@ -56,10 +57,8 @@ class FolderManager:
             print(f"Error while reading the file: {e}")
             return None
 
-    def create_text(self,path,text_name, content_list):
-        file_name = f"{path}{text_name}.txt"
-        file_path = os.path.join(self.base_path, file_name)
-
+    def create_text(self,path_name, content_list):
+        file_path = os.path.join(self.base_path, path_name)
         try:
             with open(file_path, 'w', encoding='utf-8') as file:
                 # เขียนเนื้อหาใน content_list ทีละบรรทัด
@@ -69,9 +68,8 @@ class FolderManager:
         except Exception as e:
             print(f"เกิดข้อผิดพลาดในการสร้างไฟล์: {e}")
 
-    def create_json(self,path,text_name, content):
-        file_name = f"{path}{text_name}.json"
-        file_path = os.path.join(self.base_path, file_name)
+    def create_json(self,path_name, content):
+        file_path = os.path.join(self.base_path, path_name)
         try:
             with open(file_path, 'w', encoding='utf-8') as file:
                 json.dump(content, file, ensure_ascii=False, indent=4)
@@ -79,11 +77,10 @@ class FolderManager:
         except Exception as e:
             print(f"เกิดข้อผิดพลาดในการสร้างไฟล์: {e}")
 
-    def read_json(self, path, text_name):
+    def read_json(self,file_name):
         """
         อ่านข้อมูลจากไฟล์ JSON และแปลงกลับเป็น Python object
         """
-        file_name = f"{path}{text_name}.json"
         file_path = os.path.join(self.base_path, file_name)
         try:
             with open(file_path, 'r', encoding='utf-8') as file:
@@ -143,3 +140,44 @@ class FolderManager:
         except Exception as e:
             print(f"เกิดข้อผิดพลาดในการตรวจสอบ: {e}")
             return None
+
+    
+    def duplicates_to_folder(self, target_name, source_name, param, action="copy"):
+        try:
+            # สร้าง path สำหรับ target และ source
+            target_path = os.path.join(self.base_path, target_name)
+            source_path = os.path.join(self.base_path, source_name)
+
+            # สร้างโฟลเดอร์ target หากยังไม่มี
+            if not os.path.exists(target_path):
+                os.makedirs(target_path)
+
+            # วนลูปข้อมูลใน param
+            for item in param:
+                files = item.get("files", [])
+                if not files:
+                    continue  # ข้ามถ้าไม่มีไฟล์ในรายการ
+                
+                # จัดการเฉพาะไฟล์ตัวแรกในรายการ
+                file_to_process = files[0]
+                source_file_path = os.path.join(source_path, file_to_process)
+                target_file_path = os.path.join(target_path, file_to_process)
+
+                # ตรวจสอบว่าไฟล์ต้นทางมีอยู่หรือไม่
+                if not os.path.exists(source_file_path):
+                    print(f"File {file_to_process} not found in {source_name}")
+                    continue
+
+                # ดำเนินการตาม action
+                if action == "move":
+                    shutil.move(source_file_path, target_file_path)
+                    print(f"Moved {file_to_process} from {source_name} to {target_name}")
+                elif action == "copy":
+                    shutil.copy2(source_file_path, target_file_path)
+                    print(f"Copied {file_to_process} from {source_name} to {target_name}")
+                else:
+                    print(f"Invalid action: {action}. Please use 'move' or 'copy'.")
+
+        except Exception as e:
+            print(f"เกิดข้อผิดพลาด: {e}")
+
